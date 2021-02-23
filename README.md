@@ -23,7 +23,7 @@ Table of contents
 
 # Art
 
-## NFT Marketplaces
+## Trade ERC #721 Tokens
 
 - [Known Origin](https://knownorigin.io/)
 - [Zora.co](https://zora.co/)
