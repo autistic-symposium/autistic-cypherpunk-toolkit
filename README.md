@@ -2,7 +2,7 @@
 
 A curated list of Non Fungible Token (NFT, ERC721) frameworks, software, and use cases.
 
-*"A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity."*
+
 
 Table of contents
 =================
@@ -14,6 +14,12 @@ Table of contents
   * [Artists Worth Mention](##artists-worth-mention)
 
 <!--te-->
+
+# In one sentence... 
+
+*"A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity."*
+
+----
 
 # Art
 
