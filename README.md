@@ -81,7 +81,7 @@
 
 *"The lesson of Web 2.0: when the process of sharing content with others is owned entirely by private platforms, the cost of this mediation falls heavily on creators."*
 
-## Upcoming technology
+## Upcoming technologies
 
 ### Zora Protocol
 
@@ -103,6 +103,15 @@ struct Bid {
     // Address of the recipient
     address recipient;
     // % of the next sale to award the previous owner
+    Decimal.D256 sellOnFee;
+}
+
+struct Ask {
+    // Amount of the currency being asked
+    uint256 amount;
+    // Address to the ERC20 token being asked
+    address currency;
+    // % of the next sale to award the seller
     Decimal.D256 sellOnFee;
 }
 ```
