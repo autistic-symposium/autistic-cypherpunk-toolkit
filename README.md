@@ -86,7 +86,7 @@
 * [Zora Protocol](https://zora.engineering/whitepaper): a universal market protocol for media ownership.
 
 
-## Marketplaces on DFTs
+## Marketplaces on NFTs
 
 - [Known Origin](https://knownorigin.io/) - Curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
 - [Foundation](https://foundation.app/) - Curated marketplace backed on MetaMask wallet, on Ethereum.
