@@ -126,7 +126,7 @@
 
 # Acronyms and concepts
 
-* **DeFi**L decentralized finance.
+* **DeFi**: decentralized finance.
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
