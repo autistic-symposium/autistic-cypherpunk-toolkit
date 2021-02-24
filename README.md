@@ -33,6 +33,7 @@
 
 
 
+
 ----
 
 
@@ -49,7 +50,7 @@
 
 ## Gas
 
-*Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps).*
+*"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps)."*
 
 
 * [Check gas price](https://www.gasnow.org/)
@@ -79,6 +80,11 @@
 # Artist, creators, and collectors
 
 *"The lesson of Web 2.0: when the process of sharing content with others is owned entirely by private platforms, the cost of this mediation falls heavily on creators."*
+
+## Upcoming technology
+
+* [Zora Protocol](https://zora.engineering/whitepaper): a universal market protocol for media ownership.
+
 
 ## Marketplaces on DFTs
 
