@@ -46,6 +46,7 @@
 ## Start here
 
 * [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
+* [Ethereum Improvement Proposals](https://eips.ethereum.org/).
 
 
 ## Gas
