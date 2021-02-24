@@ -145,6 +145,11 @@
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
 * **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
 
+----
+
+# Community
+
+* [ETH Global](https://ethglobal.co/)
 
 
 
