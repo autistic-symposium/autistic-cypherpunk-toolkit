@@ -40,7 +40,8 @@
 * [Uniswap](https://uniswap.org/)
 * [Chainlink](https://chain.link/)
 * [OpenZeppelin](https://openzeppelin.com/)
-* 
+
+
 -----------
 
 # Other blockchains
