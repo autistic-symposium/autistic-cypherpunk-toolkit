@@ -3,6 +3,13 @@
 
 *"A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity."*
 
+
+### But what is a token?
+
+*"A token is a representation of something in the blockchain: money, time, services, shares in a company, anything. By representing things as tokens, we can allow smart contracts to interact with them, exchange them, create or destroy them."*
+
+*"A token contract is an Ethereum smart contract. "Sending tokens" means "calling a method on a smart contract that someone wrote and deployed". A token contract is a mapping of addresses to balances, plus some methods to add and subtract from those balances. It is these balances that represent the tokens themselves. Someone "has tokens" when their balance in the token contract is non-zero."*
+
 ----
 
 # Developing on ERC721
@@ -39,7 +46,7 @@
 
 * [Uniswap](https://uniswap.org/)
 * [Chainlink](https://chain.link/)
-* [OpenZeppelin](https://openzeppelin.com/)
+* [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
 
 
 -----------
