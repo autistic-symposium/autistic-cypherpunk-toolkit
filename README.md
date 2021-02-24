@@ -89,8 +89,9 @@
 # Acronyms and concepts
 
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
-* **DAOs**: decentralized autonomous organizations.
+* **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
+* **DAI**: stablecoin cryptocurrency, maintained by MakerDao
 
 
 
