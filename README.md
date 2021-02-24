@@ -61,9 +61,10 @@
 * [eth gas station](https://ethgasstation.info/).
 
 
-## Decentralized trading protocols
+## Decentralized trading protocols / Smart contracts
 
 * [Uniswap](https://uniswap.org/).
+* [Chainlink](https://chain.link/).
 
 -----------
 
