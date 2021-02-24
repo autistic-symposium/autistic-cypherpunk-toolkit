@@ -70,15 +70,15 @@
 
 # Other blockchains
 
-* [Flow](https://www.onflow.org/primer) - "smart constracts assembled like lego blocks".
+* [Flow](https://www.onflow.org/primer) - "smart contracts assembled like lego blocks".
 
 
 ------
 
 
-# Socieconomics of decentralizating the world
+# Socioeconomics of decentralizating the world
 
-## Opiniated articles
+## Opinionated articles
 
 * [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79).
 * [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
