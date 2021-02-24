@@ -5,9 +5,9 @@
 
 ----
 
-# Artist, Creators, and Collectors
+# Artist, creators, and collectors
 
-## Marketplaces on ERC #721 Tokens
+## Marketplaces on ERC #721 tokens
 
 - [Known Origin](https://knownorigin.io/) - Curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
 - [Foundation](https://foundation.app/) - Curated marketplace backed on MetaMask wallet, on Ethereum.
@@ -28,7 +28,7 @@
 * [NFT Market Overview](https://nonfungible.com/market/history).
 
 
-## Conceptual Collections
+## Conceptual collections
 
 * [Rare Pepe Wallet](https://rarepepewallet.com/).
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks).
@@ -36,7 +36,7 @@
 * [CryptoKitties](https://www.cryptokitties.co/).
 * [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
 
-
+## Competition based NFTs
 
 
 ## Artists worth mention
@@ -61,13 +61,13 @@
 * [eth gas station](https://ethgasstation.info/).
 
 
-## Decentralized Trading Protocols
+## Decentralized trading protocols
 
 * [Uniswap](https://uniswap.org/).
 
 -----------
 
-# Other Blockchains
+# Other blockchains
 
 * [Flow](https://www.onflow.org/primer) - "smart constracts assembled like lego blocks".
 
@@ -91,7 +91,8 @@
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
-* **DAI**: stablecoin cryptocurrency, maintained by MakerDao
+* **DAI**: stablecoin cryptocurrency, maintained by MakerDao.
+* **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
 
 
 
