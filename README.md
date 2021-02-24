@@ -10,6 +10,7 @@
 ## Marketplaces on ERC #721 Tokens
 
 - [Known Origin](https://knownorigin.io/) - Curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
+- [Foundation](https://foundation.app/) - Curated marketplace backed on MetaMask wallet, on Ethereum.
 - [Zora.co](https://zora.co/)
 - [Nifty Gateway](https://niftygateway.com/)
 - [OpenSea.io](https://opensea.io/)
@@ -27,6 +28,8 @@
 
 
 # Ethereum
+
+*"Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee."*
 
 *"Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network."*
 
@@ -48,13 +51,16 @@
 ## Opiniated articles
 
 * [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79).
+* [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
 
 
 -----
 
-# Dialects and concepts
+# Acronyms and concepts
 
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
+* **DAOs**: decentralized autonomous organizations.
+* **DEXs**: decentralized exchanges.
 
 
 
