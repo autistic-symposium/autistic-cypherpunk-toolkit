@@ -52,7 +52,7 @@
 
 # Other Blockchains
 
-* [Flow](https://www.onflow.org/primer)
+* [Flow](https://www.onflow.org/primer) - "smart constracts assembled like lego blocks".
 
 
 ------
