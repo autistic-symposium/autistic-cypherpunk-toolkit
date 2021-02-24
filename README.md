@@ -5,9 +5,15 @@
 
 ----
 
+# Developing on ERC721
+
+* [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/)
+
+---
+
 # Artist, creators, and collectors
 
-## Marketplaces on ERC #721 tokens
+## Marketplaces on ERC721 tokens
 
 - [Known Origin](https://knownorigin.io/) - Curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
 - [Foundation](https://foundation.app/) - Curated marketplace backed on MetaMask wallet, on Ethereum.
