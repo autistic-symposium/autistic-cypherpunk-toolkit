@@ -49,7 +49,7 @@
 
 ## Gas
 
-*Ethereum transaction fees.*
+*Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps).*
 
 
 * [Check gas price](https://www.gasnow.org/)
