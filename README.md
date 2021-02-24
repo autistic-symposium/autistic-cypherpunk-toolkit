@@ -1,15 +1,11 @@
 # Awesome NFTs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Non Fungible Token (NFT, ERC721) frameworks, software, and use cases.
-
-
-## In one sentence... 
 
 *"A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity."*
 
 ----
 
-# Art
+# Artist, Creators, and Collectors
 
 ## Marketplaces on ERC #721 Tokens
 
@@ -29,6 +25,24 @@ A curated list of Non Fungible Token (NFT, ERC721) frameworks, software, and use
 
 ----
 
+
+# Ethereum
+
+*"Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network."*
+
+## Start here
+
+* [What's etherium](https://ethereum.org/en/what-is-ethereum/).
+
+
+## Gas
+* [Check gas price](https://www.gasnow.org/)
+* [eth gas station](https://ethgasstation.info/).
+
+
+------
+
+
 # Decentralizating the World
 
 ## Opiniated articles
@@ -38,8 +52,10 @@ A curated list of Non Fungible Token (NFT, ERC721) frameworks, software, and use
 
 -----
 
-# Ethereum
+# Dialects and concepts
 
-## Gas
-* [Check gas price](https://www.gasnow.org/)
-* [eth gas station](https://ethgasstation.info/).
+* **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
+
+
+
+
