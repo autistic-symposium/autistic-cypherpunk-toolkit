@@ -100,6 +100,7 @@
 ## Understanding assets
 
 * [NFT Market Overview](https://nonfungible.com/market/history).
+* [Crypto slam](https://www.cryptoslam.io/).
 
 
 ## Conceptual collections
