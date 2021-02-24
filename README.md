@@ -83,7 +83,7 @@
 
 ## Upcoming technology
 
-* [Zora Protocol](https://zora.engineering/whitepaper): a universal market protocol for media ownership.
+* [Zora Protocol](https://zora.engineering/whitepaper): a universal market protocol for media ownership. Creators can set a perpetual ownership stake in their work, and are rewarded whenever ownership changes hands. Based on Ethereum blockchain and ERC-721 tokens.
 
 
 ## Marketplaces on NFTs
