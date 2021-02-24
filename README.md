@@ -28,7 +28,8 @@
 
 *"ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique."*
 
-* [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/)
+* [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/).
+* [How to build a blockchain lotery in Chainlin](https://blog.chain.link/how-to-build-a-blockchain-lottery-2/).
 
 
 ## Solidity
