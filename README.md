@@ -89,7 +89,7 @@
 
    - Each piece of media is embedded with a market, consisting of a transparent pool of bids.
    - Whenever a bid is accepted, or an ask fulfilled, the piece of media is transferred to the buyer, and the funds from that bid are split amongst its shareholders. There can be up to three shareholders for a piece of media: the owner, the previous owner, and the original creator.
-   - Zora protocol introduces integrity checks to ensure that media and its metadata is provably unique.
+   - Zora protocol introduces integrity checks to ensure that media and its metadata is provably unique. The representation of media on the Zora protocol is two URI pointers: one to the metadata, and one to the content itself (the URI can be updated, but the sha256 checksums representing the data they point to may not).
    - Uses Bids to represent buy-side liquidity for a piece of media and specifies an ERC-20 currency to be bid with (allowing for a market of many currencies to exist for the media):
 
 ```
