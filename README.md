@@ -27,19 +27,20 @@
 
 ## Start here
 
-* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/).
+* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
 
 
 ## Gas
 * [Check gas price](https://www.gasnow.org/)
-* [eth gas station](https://ethgasstation.info/).
+* [eth gas station](https://ethgasstation.info/)
 
 
 ## Decentralized trading protocols / Smart contracts
 
-* [Uniswap](https://uniswap.org/).
-* [Chainlink](https://chain.link/).
-
+* [Uniswap](https://uniswap.org/)
+* [Chainlink](https://chain.link/)
+* [OpenZeppelin](https://openzeppelin.com/)
+* 
 -----------
 
 # Other blockchains
@@ -64,8 +65,8 @@
 - [Portion](http://portion.io/)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
-- [NonFungible.com](https://nonfungible.com/).
-- [Data,nyc](https://dada.nyc/artgallery).
+- [NonFungible.com](https://nonfungible.com/)
+- [Data,nyc](https://dada.nyc/artgallery)
 
 
 ## Understanding assets
@@ -76,9 +77,9 @@
 ## Conceptual collections
 
 * [Rare Pepe Wallet](https://rarepepewallet.com/).
-* [CryptoPunks](https://www.larvalabs.com/cryptopunks).
-* [Curio Cards](https://curio.cards/).
-* [CryptoKitties](https://www.cryptokitties.co/).
+* [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+* [Curio Cards](https://curio.cards/)
+* [CryptoKitties](https://www.cryptokitties.co/)
 * [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
 
 ## Competition based NFTs
