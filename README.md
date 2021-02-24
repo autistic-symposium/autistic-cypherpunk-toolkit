@@ -14,6 +14,12 @@
 
 *"Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles."*
 
+### Monetization
+
+*"Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized."*
+
+
+
 ----
 
 # Developing on ERC721
