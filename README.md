@@ -20,11 +20,24 @@
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
 - [NonFungible.com](https://nonfungible.com/).
+- [Data,nyc](https://dada.nyc/artgallery).
 
 
 ## Understanding assets
 
 * [NFT Market Overview](https://nonfungible.com/market/history).
+
+
+## Conceptual Collections
+
+* [Rare Pepe Wallet](https://rarepepewallet.com/).
+* [CryptoPunks](https://www.larvalabs.com/cryptopunks).
+* [Curio Cards](https://curio.cards/).
+* [CryptoKitties](https://www.cryptokitties.co/).
+* [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
+
+
+
 
 ## Artists worth mention
 
@@ -73,7 +86,7 @@
 
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations.
-* **DEXs**: decentralized exchanges.
+* **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
 
 
 
