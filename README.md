@@ -9,6 +9,9 @@
 
 * [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/)
 
+
+## Solidity
+
 ---
 
 # Artist, creators, and collectors
