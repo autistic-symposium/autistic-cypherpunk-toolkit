@@ -63,6 +63,9 @@
 * [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
 
 
+## Ethereum 2.0 (Serenity)
+
+
 -----------
 
 # Other blockchains
