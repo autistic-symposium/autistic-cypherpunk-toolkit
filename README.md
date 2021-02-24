@@ -19,7 +19,12 @@
 - [Portion](http://portion.io/)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
+- [NonFungible.com](https://nonfungible.com/).
 
+
+## Understanding assets
+
+* [NFT Market Overview](https://nonfungible.com/market/history).
 
 ## Artists worth mention
 
