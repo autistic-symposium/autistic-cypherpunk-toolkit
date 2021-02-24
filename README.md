@@ -48,10 +48,17 @@
 * [eth gas station](https://ethgasstation.info/).
 
 
+-----------
+
+# Other Blockchains
+
+* [Flow](https://www.onflow.org/primer)
+
+
 ------
 
 
-# Decentralizating the World
+# Socieconomics of decentralizating the world
 
 ## Opiniated articles
 
