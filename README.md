@@ -116,9 +116,11 @@
 
 # Acronyms and concepts
 
+* **DeFi**L decentralized finance.
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
+* **AMMs**: automated market Mmkers.
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao.
 * **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
 
