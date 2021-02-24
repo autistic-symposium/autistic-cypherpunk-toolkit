@@ -7,6 +7,8 @@
 
 # Developing on ERC721
 
+*"ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique."*
+
 * [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/)
 
 
