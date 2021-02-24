@@ -61,6 +61,10 @@
 * [eth gas station](https://ethgasstation.info/).
 
 
+## Decentralized Trading Protocols
+
+* [Uniswap](https://uniswap.org/).
+
 -----------
 
 # Other Blockchains
