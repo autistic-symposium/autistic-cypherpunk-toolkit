@@ -20,6 +20,8 @@
 
 *"Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized."*
 
+* [NFTfi](https://nftfi.com/).
+* [Rocket](https://defirate.com/rocket-nft-loans/).
 
 
 ----
