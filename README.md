@@ -84,6 +84,27 @@
 ## Upcoming technology
 
 * [Zora Protocol](https://zora.engineering/whitepaper): a universal market protocol for media ownership. Creators can set a perpetual ownership stake in their work, and are rewarded whenever ownership changes hands. Based on Ethereum blockchain and ERC-721 tokens.
+   - Each piece of media is embedded with a market, consisting of a transparent pool of bids.
+   - Whenever a bid is accepted, or an ask fulfilled, the piece of media is transferred to the buyer, and the funds from that bid are split amongst its shareholders. There can be up to three shareholders for a piece of media: the owner, the previous owner, and the original creator.
+   - Zora protocol introduces integrity checks to ensure that media and its metadata is provably unique.
+   - Uses Bids to represent buy-side liquidity for a piece of media and specifies an ERC-20 currency to be bid with (allowing for a market of many currencies to exist for the media):
+
+```
+struct Bid {
+    // Amount of the currency being bid
+    uint256 amount;
+    // Address to the ERC20 token being used to bid
+    address currency;
+    // Address of the bidder
+    address bidder;
+    // Address of the recipient
+    address recipient;
+    // % of the next sale to award the previous owner
+    Decimal.D256 sellOnFee;
+}
+```
+
+
 
 
 ## Marketplaces on NFTs
