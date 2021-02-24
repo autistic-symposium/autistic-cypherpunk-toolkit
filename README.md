@@ -121,7 +121,8 @@
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
 * **AMMs**: automated market Mmkers.
-* **DAI**: stablecoin cryptocurrency, maintained by MakerDao.
+* **Stablecoins**: offers users vital means of storing and transferring value on the blockchain, without exposing them to volatility.
+* **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
 * **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
 
 
