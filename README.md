@@ -94,6 +94,7 @@
 - [Wax](https://wax.io/)
 - [NonFungible.com](https://nonfungible.com/)
 - [Data,nyc](https://dada.nyc/artgallery)
+- [Digitalax](https://marketplace.digitalax.xyz/): digital/crypto fashion engine.
 
 
 ## Understanding assets
