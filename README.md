@@ -53,7 +53,7 @@
 
 ## Start here
 
-* [What's etherium](https://ethereum.org/en/what-is-ethereum/).
+* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/).
 
 
 ## Gas
