@@ -12,6 +12,40 @@
 
 ## Solidity
 
+
+
+----
+
+
+# Ethereum
+
+*"Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee."*
+
+*"Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network."*
+
+## Start here
+
+* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/).
+
+
+## Gas
+* [Check gas price](https://www.gasnow.org/)
+* [eth gas station](https://ethgasstation.info/).
+
+
+## Decentralized trading protocols / Smart contracts
+
+* [Uniswap](https://uniswap.org/).
+* [Chainlink](https://chain.link/).
+
+-----------
+
+# Other blockchains
+
+* [Flow](https://www.onflow.org/primer) - "smart contracts assembled like lego blocks".
+
+
+
 ---
 
 # Artist, creators, and collectors
@@ -49,37 +83,6 @@
 
 
 ## Artists worth mention
-
-
-----
-
-
-# Ethereum
-
-*"Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee."*
-
-*"Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network."*
-
-## Start here
-
-* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/).
-
-
-## Gas
-* [Check gas price](https://www.gasnow.org/)
-* [eth gas station](https://ethgasstation.info/).
-
-
-## Decentralized trading protocols / Smart contracts
-
-* [Uniswap](https://uniswap.org/).
-* [Chainlink](https://chain.link/).
-
------------
-
-# Other blockchains
-
-* [Flow](https://www.onflow.org/primer) - "smart contracts assembled like lego blocks".
 
 
 ------
