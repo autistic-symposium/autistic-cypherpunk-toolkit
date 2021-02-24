@@ -16,12 +16,7 @@
 
 *"Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles."*
 
-### Monetization
 
-*"Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized."*
-
-* [NFTfi](https://nftfi.com/).
-* [Rocket](https://defirate.com/rocket-nft-loans/).
 
 
 ----
@@ -83,6 +78,8 @@
 
 # Artist, creators, and collectors
 
+*"The lesson of Web 2.0: when the process of sharing content with others is owned entirely by private platforms, the cost of this mediation falls heavily on creators."*
+
 ## Marketplaces on DFTs
 
 - [Known Origin](https://knownorigin.io/) - Curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
@@ -132,6 +129,13 @@
 * [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821).
 
 
+
+## Monetization
+
+*"Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized."*
+
+* [NFTfi](https://nftfi.com/).
+* [Rocket](https://defirate.com/rocket-nft-loans/).
 -----
 
 # Acronyms and concepts
