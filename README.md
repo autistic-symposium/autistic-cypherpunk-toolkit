@@ -1,7 +1,6 @@
 # ▲ Curated NFTs resources ⇢ From Zero to Hero ▼ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-#### *Musing for that vision of community ownership and token governance*
-
+#### TL;DR NFTs are cryptographic tokens that prove authenticity, ownership, and scarcity of digital assets
 
 *A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity.*
 
