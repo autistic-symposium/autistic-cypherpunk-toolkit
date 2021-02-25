@@ -176,6 +176,22 @@
 * [Curio Cards](https://curio.cards/)
 * [Joy World](https://www.joy.world/)
 
+## Marketplaces
+
+- [Known Origin](https://knownorigin.io/): curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
+- [Foundation](https://foundation.app/): crated marketplace backed on MetaMask wallet, on Ethereum.
+- [Digitalax](https://marketplace.digitalax.xyz/): digital fashion engine.
+- [Zora.co](https://zora.co/): curated marketplace backed on MetaMask wallet, on Ethereum.
+- [Nifty Gateway](https://niftygateway.com/): market place created by [Gemini](https://www.gemini.com/).
+- [OpenSea.io](https://opensea.io/): open marketplace on ERC721 and ERC1155.
+- [CryptoSlam.io](https://www.cryptoslam.io/): collect digital cards.
+- [Rarible](https://rarible.com/): community-owned NFT marketplace.
+- [SuperRare](https://superrare.co/): collect digital art work.
+- [Wax](https://wax.io/): decentralized video game and entertainment network.
+- [NonFungible.com](https://nonfungible.com/): database of blockchain gaming and crypto collectible markets.
+- [Data.nyc](https://dada.nyc/artgallery): collection of virtual conversations.
+- [Maecenas.co](https://www.maecenas.co/): fine art investments.
+- [Portion](https://portion.io/): premier online marketplace.
 
 ## Minting Platforms
 
@@ -220,22 +236,7 @@ struct Ask {
 
 
 
-## Marketplaces on NFTs
 
-- [Known Origin](https://knownorigin.io/): curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
-- [Foundation](https://foundation.app/): crated marketplace backed on MetaMask wallet, on Ethereum.
-- [Digitalax](https://marketplace.digitalax.xyz/): digital fashion engine.
-- [Zora.co](https://zora.co/): curated marketplace backed on MetaMask wallet, on Ethereum.
-- [Nifty Gateway](https://niftygateway.com/): market place created by [Gemini](https://www.gemini.com/).
-- [OpenSea.io](https://opensea.io/): open marketplace on ERC721 and ERC1155.
-- [CryptoSlam.io](https://www.cryptoslam.io/): collect digital cards.
-- [Rarible](https://rarible.com/): community-owned NFT marketplace.
-- [SuperRare](https://superrare.co/): collect digital art work.
-- [Wax](https://wax.io/): decentralized video game and entertainment network.
-- [NonFungible.com](https://nonfungible.com/): database of blockchain gaming and crypto collectible markets.
-- [Data.nyc](https://dada.nyc/artgallery): collection of virtual conversations.
-- [Maecenas.co](https://www.maecenas.co/): fine art investments.
-- [Portion](https://portion.io/): premier online marketplace.
 
 
 ### Artists worth mention
