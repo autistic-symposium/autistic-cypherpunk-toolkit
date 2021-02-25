@@ -204,6 +204,16 @@
 * [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
 
 
+
+## Artists worth mention
+
+* [josie.io.](https://josie.io/)
+* [Johnny Dollar](https://johnnydollar.biz/)
+* [Yonat Vaks](https://www.yonatvaks.com/)
+* [Alotta Money](https://alottamoney.com/)
+
+
+
 ## Upcoming technologies
 
 ### Zora Protocol
@@ -242,22 +252,13 @@ struct Ask {
 
 
 
-
-
-
-## Artists worth mention
-
-* [josie.io.](https://josie.io/)
-* [Johnny Dollar](https://johnnydollar.biz/)
-* [Yonat Vaks](https://www.yonatvaks.com/)
-* [Alotta Money](https://alottamoney.com/)
-
-
-
 ## Understanding assets
 
 * [NFT Market Overview](https://nonfungible.com/market/history).
 * [Crypto slam](https://www.cryptoslam.io/).
+
+
+
 
 
 
