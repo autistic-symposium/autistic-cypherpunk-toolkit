@@ -133,7 +133,7 @@
 
 
 
-### Decentralized trading protocols 
+### Trading protocols 
 
 * [Uniswap](https://uniswap.org/)
 
