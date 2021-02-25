@@ -139,6 +139,11 @@
 * [Uniswap](https://uniswap.org/)
 
 
+### Protocols
+
+* [polygon](https://polygon.technology/get-started/): protocol for connecting Ethereum-compatible blockchain networks.
+
+
 ### Sharding 
 
 *If the Ethereum nodes become too expensive to run, the network will be more susceptible to centralization. A solution is to split of the entire Ethereum network into multiple portions. Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts.*
