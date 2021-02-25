@@ -166,6 +166,7 @@
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 * [Curio Cards](https://curio.cards/)
 * [CryptoKitties](https://www.cryptokitties.co/)
+* [Joy World](https://www.joy.world/)
 
 ## Upcoming technologies
 
