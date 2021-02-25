@@ -107,7 +107,7 @@
 
 *"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). it's a unit of accounT within the EVM."*
 
-* "This fee mechanism is designed to mitigate transaction spam, prevent infinite loops during contract execution, and provide for a market-based allocation of network resources."*
+*"This fee mechanism is designed to mitigate transaction spam, prevent infinite loops during contract execution, and provide for a market-based allocation of network resources."*
 
 
 * [Check gas price](https://www.gasnow.org/)
