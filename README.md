@@ -281,7 +281,7 @@ struct Ask {
 * **Stablecoins**: offers users vital means of storing and transferring value on the blockchain, without exposing them to volatility.
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
 * **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
-* **minting**: creating of NFTs. 
+* **minting**: creating of NFTs (the process of validating information, creating a new block, and recording that information into the blockchain).
 * **burning**: destruction NFTs.
 
 
