@@ -227,7 +227,8 @@ struct Ask {
 - [Wax](https://wax.io/)
 - [NonFungible.com](https://nonfungible.com/)
 - [Data.nyc](https://dada.nyc/artgallery)
-- [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
+- [Maecenas.co](https://www.maecenas.co/) - fine art investments.
+- [Portion](https://portion.io/) - premier online marketplace.
 
 
 ### Artists worth mention
