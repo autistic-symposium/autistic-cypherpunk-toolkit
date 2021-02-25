@@ -198,6 +198,7 @@
 - [Known Origin](https://knownorigin.io/): curated marketplace for rare digital work, featuring artists, on Ethereum, files held on IPFS.
 - [Foundation](https://foundation.app/): crated marketplace backed on MetaMask wallet, on Ethereum.
 - [Digitalax](https://marketplace.digitalax.xyz/): digital fashion engine.
+- [Terra Virtua](https://terravirtua.io/): immersive digital collectible platform.
 - [Zora.co](https://zora.co/): curated marketplace backed on MetaMask wallet, on Ethereum.
 - [Nifty Gateway](https://niftygateway.com/): marketplace created by [Gemini](https://www.gemini.com/).
 - [OpenSea.io](https://opensea.io/): open marketplace on ERC721 and ERC1155.
