@@ -198,6 +198,7 @@
 - [Data.nyc](https://dada.nyc/artgallery): collection of virtual conversations.
 - [Maecenas.co](https://www.maecenas.co/): fine art investments.
 - [Portion](https://portion.io/): premier online marketplace.
+- [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
 
 
 ## Minting Platforms
