@@ -65,6 +65,10 @@
 ## Solidity
 
 
+## Repositories 
+
+* [Brownie[(https://github.com/eth-brownie/brownie): Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+
 
 # ✨
 ----
