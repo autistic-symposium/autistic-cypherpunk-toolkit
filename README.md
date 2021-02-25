@@ -162,12 +162,12 @@
 
 ## Collectibles
 
+* [CryptoKitties](https://www.cryptokitties.co/): the first digital asset to use the ERC721 asset standard for NFTs (in 2017).
 * [Rare Pepe Wallet](https://rarepepewallet.com/)
 * [Non fungible pepes](https://nonfungiblepepe.com/): set of 1069 NFTs.
 * [Bullrun Babes](https://www.bullrunbabes.com/rules): set of 888 NTFs, based on Legend cards.
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 * [Curio Cards](https://curio.cards/)
-* [CryptoKitties](https://www.cryptokitties.co/)
 * [Joy World](https://www.joy.world/)
 
 
