@@ -93,6 +93,10 @@
 
 ## Ethereum 2.0 (Serenity)
 
+*"The main purpose of the upgrade is to increase transaction throughput for the network from the current of about 15 transactions per second to up to tens of thousands of transactions per second."*
+
+*"Increase throughput by splitting up the workload into many blockchains running in parallel (sharding), having them all share a common consensus proof of stake blockchain."*
+
 
 ## Security
 
