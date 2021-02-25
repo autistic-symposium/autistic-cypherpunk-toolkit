@@ -24,7 +24,7 @@
 
 
 
-### ✨
+## ✨
 
 ----
 
@@ -66,8 +66,9 @@
 
 
 
-### ✨
+## ✨
 ----
+
 # Blockchains
 
 
@@ -144,7 +145,7 @@
 
 
 
-### ✨
+## ✨
 -----------
 
 ## Other blockchains
@@ -243,7 +244,7 @@ struct Ask {
 
 
 
-### ✨
+## ✨
 ------
 
 
@@ -266,6 +267,8 @@ struct Ask {
 * [nftx.org](https://nftx.org/#/): platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable).
     - For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
 
+
+## ✨
 -----
 
 # Acronyms and concepts
@@ -282,7 +285,7 @@ struct Ask {
 * **burning**: destruction NFTs.
 
 
-### ✨
+## ✨
 ----
 
 # Community
