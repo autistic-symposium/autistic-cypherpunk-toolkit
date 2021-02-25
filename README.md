@@ -12,6 +12,10 @@
 
 *"A token contract is an Ethereum smart contract. "Sending tokens" means "calling a method on a smart contract that someone wrote and deployed". A token contract is a mapping of addresses to balances, plus some methods to add and subtract from those balances. It is these balances that represent the tokens themselves. Someone "has tokens" when their balance in the token contract is non-zero."*
 
+* [ERC721](): non-fungible.
+* [ERC20](): fungible.
+
+
 ### What is fungibility?
 
 *"Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles."*
@@ -114,11 +118,16 @@
 * [eth gas station](https://ethgasstation.info/)
 
 
-### Decentralized trading protocols / Smart contracts
+### Smart contracts
 
-* [Uniswap](https://uniswap.org/)
 * [Chainlink](https://chain.link/)
 * [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
+
+
+
+### Decentralized trading protocols 
+
+* [Uniswap](https://uniswap.org/)
 
 
 ### Ethereum 2.0 (Serenity)
