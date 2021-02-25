@@ -158,6 +158,15 @@
 
 *"The lesson of Web 2.0: when the process of sharing content with others is owned entirely by private platforms, the cost of this mediation falls heavily on creators."*
 
+## Collectibles
+
+* [Rare Pepe Wallet](https://rarepepewallet.com/)
+* [Non fungible pepes](https://nonfungiblepepe.com/): set of 1069 NFTs.
+* [Bullrun Babes](https://www.bullrunbabes.com/rules): set of 888 NTFs, based on Legend cards.
+* [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+* [Curio Cards](https://curio.cards/)
+* [CryptoKitties](https://www.cryptokitties.co/)
+
 ## Upcoming technologies
 
 ### Zora Protocol
@@ -211,6 +220,10 @@ struct Ask {
 - [Wax](https://wax.io/)
 - [NonFungible.com](https://nonfungible.com/)
 - [Data.nyc](https://dada.nyc/artgallery)
+- [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
+
+
+### Artists worth mention
 
 
 ## Understanding assets
@@ -219,16 +232,8 @@ struct Ask {
 * [Crypto slam](https://www.cryptoslam.io/).
 
 
-## Conceptual collections
-
-* [Rare Pepe Wallet](https://rarepepewallet.com/).
-* [CryptoPunks](https://www.larvalabs.com/cryptopunks)
-* [Curio Cards](https://curio.cards/)
-* [CryptoKitties](https://www.cryptokitties.co/)
-* [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
 
 
-## Artists worth mention
 
 
 ------
