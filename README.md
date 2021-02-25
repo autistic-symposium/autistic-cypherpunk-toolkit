@@ -202,6 +202,9 @@ struct Ask {
 
 * [NFTfi](https://nftfi.com/).
 * [Rocket](https://defirate.com/rocket-nft-loans/).
+* [nftx.org]: platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable).
+    - For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
+
 -----
 
 # Acronyms and concepts
