@@ -245,7 +245,7 @@ struct Ask {
 
 
 
-### Artists worth mention
+## Artists worth mention
 
 * [josie.io.](https://josie.io/)
 * [Johnny Dollar](https://johnnydollar.biz/)
