@@ -2,7 +2,7 @@
 
 #### TL;DR NFTs are cryptographic tokens that prove authenticity, ownership, and scarcity of digital assets
 
-*A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity.*
+*A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain representing ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity.*
 
 
 ### What is fungibility?
@@ -147,7 +147,7 @@
 
 ### Security
 
-* In 2016, a flaw in The DAO was exploited to stole $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain.
+* In 2016, a flaw in The DAO was exploited to steal $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain.
 
 
 
@@ -179,7 +179,7 @@
 
 ## Minting Platforms
 
-* [infiNFT](https://infinft.com/): on-chain metadata and image storage, avaialble for 3D, audio, multiple files.
+* [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
 
 
 ## Upcoming technologies
