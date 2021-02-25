@@ -286,9 +286,9 @@ struct Ask {
 
 *Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized.*
 
-* [$WHALE](http://whale.me/).
-* [NFTfi](https://nftfi.com/).
-* [Rocket](https://defirate.com/rocket-nft-loans/).
+* [$WHALE](http://): 
+* [NFTfi](https://nftfi.com/): marketplace for NFT collateralized loans.
+* [Rocket](https://defirate.com/rocket-nft-loans/). collateralized lending.
 * [nftx.org](https://nftx.org/#/): platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable).
     - For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
 
@@ -298,7 +298,7 @@ struct Ask {
 
 # Acronyms and concepts
 
-* **DeFi**: decentralized finance.
+* **DeFi**: decentralized finance: social currency backed by high-values assets.
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
