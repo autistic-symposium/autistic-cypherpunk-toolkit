@@ -98,17 +98,18 @@
 * **contracts**: associated code and storage (the values of the variables at any given time). For instance, it might send ETH, alter its storage values, create temporary storage, call any of its own functions, call any public function of a different contract, create a new contract, and query information about the current transaction or the blockchain.
 
 
+### Virtual machine
+
+*"The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack designed to run the same code exactly as intended (a fundamental consensus mechanism for Ethereum)."
+
+
 ### Gas
 
-*"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps)."*
+*"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). it's a unit of accoun within the EVM."*
 
 
 * [Check gas price](https://www.gasnow.org/)
 * [eth gas station](https://ethgasstation.info/)
-
-### Virtual machine
-
-*"The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack designed to run the same code exactly as intended (a fundamental consensus mechanism for Ethereum)."
 
 
 ### Decentralized trading protocols / Smart contracts
