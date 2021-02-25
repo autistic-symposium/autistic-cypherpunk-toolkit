@@ -7,7 +7,7 @@
 
 ### What is fungibility?
 
-*Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles.*
+*Fungible goods are equivalent and interchangeable, like Ether, bitcoin, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles.*
 
 
 ### What is a token?
