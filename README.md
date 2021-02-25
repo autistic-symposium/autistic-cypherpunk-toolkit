@@ -30,7 +30,7 @@
 
 # Developing on ERC721
 
-*"ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique."*
+*ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.*
 
 * [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
 * The ERC721 metadata JSON schema:
