@@ -84,8 +84,7 @@
 
 * **Proof-of-Work (PoW)**: used by Bitcoin's protocol. Validate transactions to the miners, who are the nodes solve cryptographic, or mathematical problems, using their computers. Miners who solve a problem and validate and enable a block record are rewarded with bitcoin.
 * **Proof-Of-Stake (PoS)**: used by Ethereum. Forgers (instead of miners) stake an amount of cryptocurrency which allows them a chance, based on probability, to be a block validator. The successful forger receives the relevant block transaction fees as a reward. 
-
-
+* **Proof-of-Authority (PoA)**: more centralized, it has predetermined block validators. New blocks on a blockchain are only created when the validators are in majority. Used by a newer blockchain, Elysian.
 
 
 ---
