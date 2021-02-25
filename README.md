@@ -1,4 +1,4 @@
-# Curated NFTs ⇢ From Zero to Hero [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Curated NFTs research ⇢ From Zero to Hero [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 #### *Musing for that vision of community ownership and token governance*
 
