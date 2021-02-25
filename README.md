@@ -106,6 +106,10 @@
 * [Check gas price](https://www.gasnow.org/)
 * [eth gas station](https://ethgasstation.info/)
 
+### Virtual machine
+
+*"The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack designed to run the same code exactly as intended (a fundamental consensus mechanism for Ethereum)."
+
 
 ### Decentralized trading protocols / Smart contracts
 
