@@ -22,7 +22,6 @@
 
 
 
-
 # ✨
 
 ----
@@ -323,6 +322,14 @@ struct Ask {
 # Community
 
 * [ETH Global](https://ethglobal.co/)
+* 
+
+# ✨
+----
 
 
+# Learn More
+
+* [OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
+* [NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 
