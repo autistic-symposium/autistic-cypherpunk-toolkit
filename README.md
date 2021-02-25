@@ -94,6 +94,10 @@
 ## Ethereum 2.0 (Serenity)
 
 
+## Security
+
+* In 2016, a flaw in The DAO was exploited to stole $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain
+
 -----------
 
 # Other blockchains
@@ -176,8 +180,6 @@ struct Ask {
 * [Curio Cards](https://curio.cards/)
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [Maecenas.co](https://www.maecenas.co/) - Fine art investments.
-
-## Competition based NFTs
 
 
 ## Artists worth mention
