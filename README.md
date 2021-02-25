@@ -146,7 +146,7 @@
 
 ### Sharding 
 
-*If the Ethereum nodes become too expensive to run, the network will be more susceptible to centralization. A solution is to split of the entire Ethereum network into multiple portions. Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts.*
+*If the Ethereum nodes become too expensive to run, the network will be more susceptible to centralization. A solution is to split the entire Ethereum network into multiple portions. Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts.*
 
 
 ### Ethereum 2.0 (Serenity)
@@ -194,7 +194,7 @@
 - [Foundation](https://foundation.app/): crated marketplace backed on MetaMask wallet, on Ethereum.
 - [Digitalax](https://marketplace.digitalax.xyz/): digital fashion engine.
 - [Zora.co](https://zora.co/): curated marketplace backed on MetaMask wallet, on Ethereum.
-- [Nifty Gateway](https://niftygateway.com/): market place created by [Gemini](https://www.gemini.com/).
+- [Nifty Gateway](https://niftygateway.com/): marketplace created by [Gemini](https://www.gemini.com/).
 - [OpenSea.io](https://opensea.io/): open marketplace on ERC721 and ERC1155.
 - [CryptoSlam.io](https://www.cryptoslam.io/): collect digital cards.
 - [Rarible](https://rarible.com/): community-owned NFT marketplace.
