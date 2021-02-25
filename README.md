@@ -100,12 +100,12 @@
 
 ### Virtual machine
 
-*"The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack designed to run the same code exactly as intended (a fundamental consensus mechanism for Ethereum)."
+*"The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack designed to run the same code exactly as intended (a fundamental consensus mechanism for Ethereum)."*
 
 
 ### Gas
 
-*"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). it's a unit of accoun within the EVM."*
+*"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). it's a unit of accounT within the EVM."*
 
 
 * [Check gas price](https://www.gasnow.org/)
