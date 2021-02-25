@@ -136,7 +136,7 @@
 
 ## Other blockchains
 
-* [Flow](https://www.onflow.org/primer) - "smart contracts assembled like lego blocks".
+* [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
 
 
 
