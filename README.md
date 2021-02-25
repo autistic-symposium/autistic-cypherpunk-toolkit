@@ -26,7 +26,7 @@
 *"ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique."*
 
 * [EIP-721: ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
-* The "ERC721 Metadata JSON Schema":
+* The ERC721 metadata JSON schema:
 
 ```
 {
@@ -214,8 +214,8 @@ struct Ask {
 * **Stablecoins**: offers users vital means of storing and transferring value on the blockchain, without exposing them to volatility.
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
 * **Chainlink VRF**: verifiable randomness function that allow developers to apply random traits to an NFT.
-* **minting**:creating of NFTs. 
-* **burning**:destruction NFTs.
+* **minting**: creating of NFTs. 
+* **burning**: destruction NFTs.
 
 ----
 
