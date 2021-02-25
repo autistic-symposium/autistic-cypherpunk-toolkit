@@ -6,7 +6,12 @@
 *"A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain that represents ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity."*
 
 
-### But what is a token?
+### What is fungibility?
+
+*"Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles."*
+
+
+### What is a token?
 
 *"A token is a representation of something in the blockchain: money, time, services, shares in a company, anything. By representing things as tokens, we can allow smart contracts to interact with them, exchange them, create or destroy them."*
 
@@ -16,9 +21,7 @@
 * [ERC20](): fungible.
 
 
-### What is fungibility?
 
-*"Fungible goods are equivalent and interchangeable, like Ether, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles."*
 
 
 
