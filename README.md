@@ -55,8 +55,9 @@
 }
 ```
 
-## Articles 
+## Articles and docs
 
+* [OpenSea API and tutorial for customizable marketplace for buying and selling](https://docs.opensea.io/docs/getting-started).
 * [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/).
 * [How to build a blockchain lotery in Chainlin](https://blog.chain.link/how-to-build-a-blockchain-lottery-2/).
 
