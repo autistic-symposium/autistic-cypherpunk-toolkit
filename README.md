@@ -322,7 +322,6 @@ struct Ask {
 # Community
 
 * [ETH Global](https://ethglobal.co/)
-* 
 
 # ✨
 ----
