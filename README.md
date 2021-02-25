@@ -88,9 +88,7 @@
 
 *Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network.*
 
-### Start here
-
-* [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
+* [What's Ethereum website](https://ethereum.org/en/what-is-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/).
 
 
