@@ -138,6 +138,11 @@
 * [Uniswap](https://uniswap.org/)
 
 
+### Sharding 
+
+*If the Ethereum nodes become too expensive to run, the network will be more susceptible to centralization. A solution is to split of the entire Ethereum network into multiple portions. Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts.*
+
+
 ### Ethereum 2.0 (Serenity)
 
 *The main purpose of the upgrade is to increase transaction throughput for the network from the current of about 15 transactions per second to up to tens of thousands of transactions per second.*
