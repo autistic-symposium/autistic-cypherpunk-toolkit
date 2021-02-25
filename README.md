@@ -168,6 +168,12 @@
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [Joy World](https://www.joy.world/)
 
+
+## Minting Platforms
+
+* [infiNFT](https://infinft.com/): on-chain metadata and image storage, avaialble for 3D, audio, multiple files.
+
+
 ## Upcoming technologies
 
 ### Zora Protocol
