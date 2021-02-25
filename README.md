@@ -32,7 +32,7 @@
 
 *"ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique."*
 
-* [EIP-721: ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
+* [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
 * The ERC721 metadata JSON schema:
 
 ```
