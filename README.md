@@ -61,21 +61,33 @@
 
 
 ----
+# Blockchains
 
 
-# Ethereum
+
+## How it works
+
+* Whenever a node wishes to include a new transaction in the blockchain, it sends it to its peers, who then send it to their peers, and so on. In this way, it propagates throughout the network. 
+* Certain nodes, called miners, maintain a list of all of these new transactions and use them to create new blocks, which they then send to the rest of the network. 
+* Whenever a node receives a block, it checks the validity of the block and of all of the transactions therein and, if valid, adds it to its blockchain and executes all of said transactions. 
+* As the network is non-hierarchical, a node may receive competing blocks, which may form competing chains. The network comes to consensus on the blockchain by following the "longest chain rule", which states that the chain with the most blocks at any given time is the canonical chain. This rule achieves consensus because miners do not want to expend their computational work trying to add blocks to a chain that will be abandoned by the network.
+
+
+---
+
+## Ethereum
 
 *"Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee."*
 
 *"Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network."*
 
-## Start here
+### Start here
 
 * [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/).
 
 
-## Gas
+### Gas
 
 *"Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps)."*
 
@@ -84,27 +96,27 @@
 * [eth gas station](https://ethgasstation.info/)
 
 
-## Decentralized trading protocols / Smart contracts
+### Decentralized trading protocols / Smart contracts
 
 * [Uniswap](https://uniswap.org/)
 * [Chainlink](https://chain.link/)
 * [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
 
 
-## Ethereum 2.0 (Serenity)
+### Ethereum 2.0 (Serenity)
 
 *"The main purpose of the upgrade is to increase transaction throughput for the network from the current of about 15 transactions per second to up to tens of thousands of transactions per second."*
 
 *"Increase throughput by splitting up the workload into many blockchains running in parallel (sharding), having them all share a common consensus proof of stake blockchain."*
 
 
-## Security
+### Security
 
 * In 2016, a flaw in The DAO was exploited to stole $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain
 
 -----------
 
-# Other blockchains
+## Other blockchains
 
 * [Flow](https://www.onflow.org/primer) - "smart contracts assembled like lego blocks".
 
