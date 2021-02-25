@@ -186,6 +186,7 @@
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 * [Curio Cards](https://curio.cards/)
 * [Joy World](https://www.joy.world/)
+* [Axie](https://axieinfinity.com/): A digital nation.
 
 ## Marketplaces
 
