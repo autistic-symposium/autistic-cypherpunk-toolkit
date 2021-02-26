@@ -210,11 +210,14 @@
 - [Maecenas.co](https://www.maecenas.co/): fine art investments.
 - [Portion](https://portion.io/): premier online marketplace.
 - [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
+- [beta.cent.co](https://beta.cent.co/~discover/).
 
 
 ## Minting Platforms
 
 * [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
+* [Mintable](https://mintable.app/).
+* [Mintbase](https://mintbase.io/).
 
 
 
