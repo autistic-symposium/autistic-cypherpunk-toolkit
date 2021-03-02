@@ -65,13 +65,18 @@
 * [How to build a blockchain lotery in Chainlin](https://blog.chain.link/how-to-build-a-blockchain-lottery-2/).
 
 
-## Solidity
+## Solidity 
+
+### Smart Contractrs
 
 * [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
+* [CryptoCats contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)
 
 
-## Repositories 
+### Repositories & Tools
 
+* [Chainlink](https://chain.link/)
+* [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
 * [Brownie](https://github.com/eth-brownie/brownie): Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Mamba](https://mamba.black/): a framework to write, compile, and deploy smart contracts written in Vyper language and Solidity language.
 
@@ -136,11 +141,6 @@
 * [Check gas price](https://www.gasnow.org/)
 * [eth gas station](https://ethgasstation.info/)
 
-
-### Smart contracts
-
-* [Chainlink](https://chain.link/)
-* [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
 
 
 
@@ -217,6 +217,11 @@
 - [Portion](https://portion.io/): premier online marketplace.
 - [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
 - [beta.cent.co](https://beta.cent.co/~discover/).
+
+
+### Gaming Marketplaces
+
+- [Enjix](https://enjinx.io/eth/marketplace).
 
 
 ## Minting Platforms
