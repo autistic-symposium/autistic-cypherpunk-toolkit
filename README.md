@@ -16,9 +16,13 @@
 
 *A token contract is an Ethereum smart contract. "Sending tokens" means "calling a method on a smart contract that someone wrote and deployed". A token contract is a mapping of addresses to balances, plus some methods to add and subtract from those balances. It is these balances that represent the tokens themselves. Someone "has tokens" when their balance in the token contract is non-zero.*
 
-* **ERC721**: non-fungible.
-* **ERC20**: fungible.
+#### Ethereum standards tokens:
 
+* **ERC721**: non-fungible tokens.
+* **ERC20**: fungible tokens.
+* **ERC-1400**: security tokens that be sold as securities.
+* **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
+* **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 
 
 
@@ -62,6 +66,8 @@
 
 
 ## Solidity
+
+* [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
 
 
 ## Repositories 
@@ -307,10 +313,12 @@ struct Ask {
 
 # Acronyms and concepts
 
-* **DeFi**: decentralized finance: social currency backed by high-values assets.
+
 * **DApps**: decentralized applications (which can include games, digital collectibles, online-voting systems, financial products and many others).
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
+* **DeFi**: decentralized finance: social currency backed by high-values assets.
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
+* **Liquidity pools**: pool of tokens locked in the smart contract, used to facilitate trade by providing liquidity, and used by some of the decentralized exchnages.
 * **AMMs**: automated market Mmkers.
 * **Stablecoins**: offers users vital means of storing and transferring value on the blockchain, without exposing them to volatility.
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
