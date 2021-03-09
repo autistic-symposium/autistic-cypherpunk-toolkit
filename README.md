@@ -18,8 +18,8 @@
 
 #### Ethereum standards tokens:
 
-* **ERC721**: non-fungible tokens.
-* **ERC20**: fungible tokens.
+* **ERC-721**: non-fungible tokens.
+* **ERC-20**: fungible tokens.
 * **ERC-1400**: security tokens that be sold as securities.
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
