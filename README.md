@@ -1,4 +1,4 @@
-# ▲ Curated NFTs resources ⇢ From Zero to Hero ▼ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# ▲ NFTs ⇢ From Zero to Hero ▼ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 #### TL;DR NFTs are cryptographic tokens that prove authenticity, ownership, and scarcity of digital assets. It's a new *file format*, for a file you can't copy.
 
@@ -24,6 +24,9 @@
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 
+#### Flow standards tokens:
+* [Fungible Token Standard](https://github.com/onflow/flow-FT)
+* [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-NFT)
 
 
 # ✨
