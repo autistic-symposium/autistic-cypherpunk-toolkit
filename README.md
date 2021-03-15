@@ -175,16 +175,18 @@
 
 
 
-# ✨
 -----------
 
-## Other blockchains
+## Flow
+
+
 
 * [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
 
 
 
----
+# ✨
+-----------
 
 # Artist, creators, and collectors
 
