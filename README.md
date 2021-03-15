@@ -243,14 +243,6 @@
 
 
 
-## Artists worth mention
-
-* [josie.io.](https://josie.io/)
-* [Johnny Dollar](https://johnnydollar.biz/)
-* [Yonat Vaks](https://www.yonatvaks.com/)
-* [Alotta Money](https://alottamoney.com/)
-
-
 
 ## Upcoming technologies
 
