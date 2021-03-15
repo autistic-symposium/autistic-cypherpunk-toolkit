@@ -16,17 +16,12 @@
 
 *A token contract is an Ethereum smart contract. "Sending tokens" means "calling a method on a smart contract that someone wrote and deployed". A token contract is a mapping of addresses to balances, plus some methods to add and subtract from those balances. It is these balances that represent the tokens themselves. Someone "has tokens" when their balance in the token contract is non-zero.*
 
-#### Ethereum standards tokens:
 
-* **ERC-721**: non-fungible tokens.
-* **ERC-20**: fungible tokens.
-* **ERC-1400**: security tokens that be sold as securities.
-* **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
-* **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
+### Why NFTs will power the future of commerce
 
-#### Flow standards tokens:
-* [Fungible Token Standard](https://github.com/onflow/flow-FT)
-* [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-NFT)
+* NFT-enabled decentralized commerce could offer a viable alternative and save small businesses.
+* Non-fungibility itself allows for new kinds of transactions, where users are not limited to monetary exchanges, but can enjoy the exchange of assets (digital or physical).
+
 
 
 # ✨
@@ -173,7 +168,13 @@
 
 * In 2016, a flaw in The DAO was exploited to steal $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain.
 
+### Ethereum standards tokens:
 
+* **ERC-721**: non-fungible tokens.
+* **ERC-20**: fungible tokens.
+* **ERC-1400**: security tokens that be sold as securities.
+* **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
+* **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 
 -----------
 
@@ -182,6 +183,11 @@
 
 
 * [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
+
+
+### Flow standards tokens:
+* [Fungible Token Standard](https://github.com/onflow/flow-FT)
+* [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-NFT)
 
 
 
