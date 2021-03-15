@@ -1,5 +1,5 @@
 
-# Crypto artists 
+# 🖼✨ Crypto artists 
 
 * [josie.io.](https://josie.io/)
 * [Johnny Dollar](https://johnnydollar.biz/)
