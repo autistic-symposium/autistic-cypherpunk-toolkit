@@ -56,12 +56,6 @@
 }
 ```
 
-## Articles and docs
-
-* [OpenSea API and tutorial for customizable marketplace for buying and selling](https://docs.opensea.io/docs/getting-started).
-* [How to get Random numbers in a NFT, Chainlink](https://blog.chain.link/random-numbers-nft-erc721/).
-* [How to build a blockchain lotery in Chainlin](https://blog.chain.link/how-to-build-a-blockchain-lottery-2/).
-
 
 ## Solidity 
 
@@ -235,7 +229,7 @@
 - [Enjix](https://enjinx.io/eth/marketplace).
 
 
-## Minting Platforms
+## Permanent storage solutions (Arweave and IPFS)
 
 * [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
 * [Mintable](https://mintable.app/).
