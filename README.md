@@ -26,55 +26,7 @@
 
 # ✨
 
-----
-
-# Developing on ERC721
-
-*ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.*
-
-* [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
-* The ERC721 metadata JSON schema:
-
-```
-{
-    "title": "Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this NFT represents"
-        },
-        "image": {
-            "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
-        }
-    }
-}
-```
-
-
-## Solidity 
-
-### Smart Contractrs
-
-* [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
-* [CryptoCats contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)
-
-
-### Repositories & Tools
-
-* [Chainlink](https://chain.link/)
-* [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
-* [Brownie](https://github.com/eth-brownie/brownie): Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-* [Mamba](https://mamba.black/): a framework to write, compile, and deploy smart contracts written in Vyper language and Solidity language.
-
-
-# ✨
-----
+---
 
 # Blockchains
 
@@ -188,6 +140,62 @@
 
 # ✨
 -----------
+
+# Developing on ERC721
+
+*ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.*
+
+* [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
+* The ERC721 metadata JSON schema:
+
+```
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Identifies the asset to which this NFT represents"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+        }
+    }
+}
+```
+
+
+## Solidity 
+
+### Smart Contractrs
+
+* [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
+* [CryptoCats contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)
+
+
+### Repositories & Tools
+
+* [Chainlink](https://chain.link/)
+* [OpenZeppelin](https://openzeppelin.com/): libraries of modular, reusable, secure smart contracts for Ethereum network, written in Solidity.
+* [Brownie](https://github.com/eth-brownie/brownie): Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+* [Mamba](https://mamba.black/): a framework to write, compile, and deploy smart contracts written in Vyper language and Solidity language.
+
+## Cadence (Flow)
+
+### Smart Contracts
+
+* [Tutorial to deploy, store, and transfer NFT](https://docs.onflow.org/cadence/tutorial/04-non-fungible-tokens/).
+
+
+# ✨
+----
+
+
 
 # Artist, creators, and collectors
 
