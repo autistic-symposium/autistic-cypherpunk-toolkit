@@ -144,7 +144,7 @@
 
 # ✨
 
---
+---
 
 # Permanent storage solutions (Arweave and IPFS)
 
