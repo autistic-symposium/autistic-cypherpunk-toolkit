@@ -28,7 +28,7 @@
 
 ---
 
-# Blockchains
+# Blockchains 101
 
 
 
@@ -42,14 +42,16 @@
 
 ## Consensus protocols
 
-* **Proof-of-Work (PoW)**: used by Bitcoin's protocol. Validate transactions to the miners, who are the nodes solve cryptographic, or mathematical problems, using their computers. Miners who solve a problem and validate and enable a block record are rewarded with bitcoin.
-* **Proof-Of-Stake (PoS)**: used by Ethereum. Forgers (instead of miners) stake an amount of cryptocurrency which allows them a chance, based on probability, to be a block validator. The successful forger receives the relevant block transaction fees as a reward. 
-* **Proof-of-Authority (PoA)**: more centralized, it has predetermined block validators. New blocks on a blockchain are only created when the validators are in majority. Used by a newer blockchain, Elysian.
+* **Proof-of-Work (PoW)**: used by Bitcoin's protocol. Validate transactions to the miners, who are the nodes that solve cryptographic, or mathematical problems, using their computers. Miners who solve a problem and validate and enable a block record are rewarded with bitcoin.
+* **Proof-Of-Stake (PoS)**: used by Ethereum. Forgers (instead of miners) stake an amount of cryptocurrency, which allows them a chance, based on probability, to be a block validator. The successful forger receives the relevant block transaction fees as a reward. 
+* **Proof-of-Authority (PoA)**: more centralized, it has predetermined block validators. New blocks on a blockchain are only created when the validators are in the majority. Used by a newer blockchain, Elysian.
 
 
----
+# ✨
 
-## Ethereum
+--
+
+# Ethereum
 
 *Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee.*
 
@@ -77,7 +79,7 @@
 
 ### Gas
 
-*Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). it's a unit of accounT within the EVM.*
+*Ethereum transaction fees: to transact on the network, users pay gas fees in ETH to miners running the computers that validate, or process, every transaction completed (from simple token transfers to more complex engagements with dapps). It's a unit of account within the EVM.*
 
 *This fee mechanism is designed to mitigate transaction spam, prevent infinite loops during contract execution, and provide for a market-based allocation of network resources.*
 
@@ -114,7 +116,7 @@
 
 * In 2016, a flaw in The DAO was exploited to steal $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain.
 
-### Ethereum standards tokens:
+## Ethereum standards tokens:
 
 * **ERC-721**: non-fungible tokens.
 * **ERC-20**: fungible tokens.
@@ -122,9 +124,11 @@
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 
------------
+# ✨
 
-## Flow
+--
+
+# Flow
 
 
 
@@ -138,7 +142,11 @@
 
 
 
-## Permanent storage solutions (Arweave and IPFS)
+# ✨
+
+--
+
+# Permanent storage solutions (Arweave and IPFS)
 
 * [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
 * [Mintable](https://mintable.app/).
@@ -149,9 +157,11 @@
 # ✨
 -----------
 
-# Developing on ERC721
+# Smart Contracts
 
-*ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.*
+
+## Solidity (Ethereum)
+
 
 * [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
 * The ERC721 metadata JSON schema:
@@ -177,11 +187,6 @@
 }
 ```
 
-
-## Solidity (Ethereum)
-
-### Smart Contractrs
-
 * [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
 * [CryptoCats contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)
 
@@ -193,9 +198,9 @@
 * [Brownie](https://github.com/eth-brownie/brownie): Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Mamba](https://mamba.black/): a framework to write, compile, and deploy smart contracts written in Vyper language and Solidity language.
 
+
 ## Cadence (Flow)
 
-### Smart Contracts
 
 * [Tutorial to deploy, store, and transfer NFT](https://docs.onflow.org/cadence/tutorial/04-non-fungible-tokens/).
 
@@ -241,7 +246,7 @@
 - [beta.cent.co](https://beta.cent.co/~discover/).
 
 
-### Gaming Marketplaces
+## Gaming Marketplaces
 
 - [Enjix](https://enjinx.io/eth/marketplace).
 
@@ -255,7 +260,7 @@
 
    - Each piece of media is embedded with a market, consisting of a transparent pool of bids.
    - Whenever a bid is accepted, or an ask fulfilled, the piece of media is transferred to the buyer, and the funds from that bid are split amongst its shareholders. There can be up to three shareholders for a piece of media: the owner, the previous owner, and the original creator.
-   - Zora protocol introduces integrity checks to ensure that media and its metadata is provably unique. The representation of media on the Zora protocol is two URI pointers: one to the metadata, and one to the content itself (the URI can be updated, but the sha256 checksums representing the data they point to may not).
+   - Zora protocol introduces integrity checks to ensure that media and its metadata are provably unique. The representation of media on the Zora protocol is two URI pointers: one to the metadata, and one to the content itself (the URI can be updated, but the sha256 checksums representing the data they point to may not).
    - Uses Bids to represent buy-side liquidity for a piece of media and specifies an ERC-20 currency to be bid with (allowing for a market of many currencies to exist for the media):
 
 ```
@@ -297,7 +302,7 @@ struct Ask {
 ------
 
 
-# Socioeconomics of decentralizating the world
+# Socioeconomics of decentralizing the world
 
 ## Opinionated articles
 
@@ -328,7 +333,7 @@ struct Ask {
 * **DAOs**: decentralized autonomous organizations (MakerDao is an example).
 * **DeFi**: decentralized finance: social currency backed by high-values assets.
 * **DEXs**: decentralized exchanges ([Uniswap](https://uniswap.org/) is an example).
-* **Liquidity pools**: pool of tokens locked in the smart contract, used to facilitate trade by providing liquidity, and used by some of the decentralized exchnages.
+* **Liquidity pools**: pool of tokens locked in the smart contract, used to facilitate trade by providing liquidity, and used by some of the decentralized exchanges.
 * **AMMs**: automated market Mmkers.
 * **Stablecoins**: offers users vital means of storing and transferring value on the blockchain, without exposing them to volatility.
 * **DAI**: stablecoin cryptocurrency, maintained by MakerDao. 
