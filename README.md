@@ -138,6 +138,14 @@
 
 
 
+## Permanent storage solutions (Arweave and IPFS)
+
+* [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
+* [Mintable](https://mintable.app/).
+* [Mintbase](https://mintbase.io/).
+* [Pinata](pinata.cloud).
+
+
 # ✨
 -----------
 
@@ -170,7 +178,7 @@
 ```
 
 
-## Solidity 
+## Solidity (Ethereum)
 
 ### Smart Contractrs
 
@@ -238,14 +246,6 @@
 - [Enjix](https://enjinx.io/eth/marketplace).
 
 
-## Permanent storage solutions (Arweave and IPFS)
-
-* [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
-* [Mintable](https://mintable.app/).
-* [Mintbase](https://mintbase.io/).
-
-
-
 
 ## Upcoming technologies
 
@@ -281,7 +281,6 @@ struct Ask {
     Decimal.D256 sellOnFee;
 }
 ```
-
 
 
 
