@@ -116,7 +116,7 @@
 
 * In 2016, a flaw in The DAO was exploited to steal $50 million of Ether. As a result, the Ethereum community voted to hard fork the blockchain to reverse the theft. Ethereum Classic (ETC) continued as the original chain.
 
-## Ethereum standards tokens:
+### Ethereum standards tokens:
 
 * **ERC-721**: non-fungible tokens.
 * **ERC-20**: fungible tokens.
