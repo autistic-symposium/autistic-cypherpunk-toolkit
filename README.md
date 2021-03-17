@@ -177,6 +177,7 @@
 
 
 * [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
+* [Cadence playground](https://play.onflow.org/).
 
 
 ### Flow standards tokens:
