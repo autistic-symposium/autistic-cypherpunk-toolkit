@@ -349,6 +349,17 @@ struct Ask {
 # ✨
 ----
 
+# Wallets to get started
+
+(remember: not your keys, not your coins)
+
+* [Metask](https://metamask.io/)
+* [rainbow](https://rainbow.me/)
+
+# ✨
+----
+
+
 # Community
 
 * [ETH Global](https://ethglobal.co/)
