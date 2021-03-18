@@ -24,7 +24,7 @@
 
 
 
-# ✨
+# 💎
 
 ---
 
@@ -47,7 +47,7 @@
 * **Proof-of-Authority (PoA)**: more centralized, it has predetermined block validators. New blocks on a blockchain are only created when the validators are in the majority. Used by a newer blockchain, Elysian.
 
 
-# ✨
+# 💎
 
 ---
 
@@ -124,7 +124,7 @@
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 
-# ✨
+# 💎
 
 ---
 
@@ -142,7 +142,7 @@
 
 
 
-# ✨
+# 💎
 
 ---
 
@@ -209,7 +209,7 @@
 * [Tutorial to deploy, store, and transfer NFT](https://docs.onflow.org/cadence/tutorial/04-non-fungible-tokens/).
 
 
-# ✨
+# 💎
 ----
 
 
@@ -306,7 +306,7 @@ struct Ask {
 
 
 
-# ✨
+# 💎
 ------
 
 
@@ -331,7 +331,7 @@ struct Ask {
     - For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
 
 
-# ✨
+# 💎
 -----
 
 # Acronyms and concepts
@@ -350,7 +350,7 @@ struct Ask {
 * **burning**: destruction NFTs.
 
 
-# ✨
+# 💎
 ----
 
 # Wallets to get started
@@ -360,7 +360,7 @@ struct Ask {
 * [MetaMask](https://metamask.io/)
 * [rainbow](https://rainbow.me/)
 
-# ✨
+# 💎
 ----
 
 
@@ -371,7 +371,7 @@ struct Ask {
 * [ETH Global](https://ethglobal.co/)
 * 
 
-# ✨
+# 💎
 ----
 
 
