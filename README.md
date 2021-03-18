@@ -372,10 +372,11 @@ struct Ask {
 ----
 
 
-# Learn More
+# Moar
 
 
 * [⭐️ ⭐️ ⭐️ ⭐️ ⭐️ - NFTs Skeptics Guide](https://justincone.com/posts/nft-skeptics-guide/)
+* [⭐️ ⭐️ ⭐️ ⭐️ - NFTs players and Landscape](https://coopahtroopa.mirror.xyz/PF42Z9oE_r6yhZN9jZrrseXfHaZALj9JIfMplshlgQ0).
 * [⭐️ ⭐️ ⭐️ ⭐️ - OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
 * [⭐️ ⭐️ ⭐️ - A beginner guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
 * [⭐️ ⭐️ ⭐️ - Crypto makes the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo).
