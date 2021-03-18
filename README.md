@@ -353,7 +353,7 @@ struct Ask {
 
 (remember: not your keys, not your coins)
 
-* [Metask](https://metamask.io/)
+* [MetaMask](https://metamask.io/)
 * [rainbow](https://rainbow.me/)
 
 # ✨
