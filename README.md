@@ -249,6 +249,9 @@
 - [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
 - [beta.cent.co](https://beta.cent.co/~discover/).
 - [Async.art](https://async.art/).
+- [Token Trove](https://tokentrove.com/)
+- [Cargo](https://cargo.build/).
+- [Blockparty](https://blockparty.co/).
 
 
 ## Gaming Marketplaces
