@@ -353,12 +353,17 @@ struct Ask {
 # 💎
 ----
 
-# Wallets to get started
+# Hot Wallets to get started
 
 (remember: not your keys, not your coins)
 
 * [MetaMask](https://metamask.io/)
 * [rainbow](https://rainbow.me/)
+* [Coinbase](https://wallet.coinbase.com/)
+* [Pillar](https://pillarproject.io/)
+* [Enjin](https://enjin.io/software/wallet)
+* [Trust Wallet](https://trustwallet.com/)
+* [Exodus](https://www.exodus.com/)
 
 # 💎
 ----
@@ -369,7 +374,7 @@ struct Ask {
 
 * [Crypto Art Pulse](https://cryptoartpulse.com/)
 * [ETH Global](https://ethglobal.co/)
-* 
+
 
 # 💎
 ----
