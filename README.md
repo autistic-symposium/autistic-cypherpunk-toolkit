@@ -364,9 +364,12 @@ struct Ask {
 ----
 
 
-# Community
+# Community, Curators, Aggregators
 
+
+* [Crypto Art Pulse](https://cryptoartpulse.com/)
 * [ETH Global](https://ethglobal.co/)
+* 
 
 # ✨
 ----
