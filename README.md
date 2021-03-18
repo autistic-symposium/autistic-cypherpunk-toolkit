@@ -148,6 +148,10 @@
 
 # Permanent storage solutions (Arweave and IPFS)
 
+
+* [Check my NFT](https://checkmynft.com/): explains the problem.
+* [Arweave](https://www.arweave.org/).
+* [IPFS to Arweave](https://ipfs2arweave.com/).
 * [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
 * [Mintable](https://mintable.app/).
 * [Mintbase](https://mintbase.io/).
