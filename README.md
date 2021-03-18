@@ -360,8 +360,8 @@ struct Ask {
 # Learn More
 
 
-* [⭐️ ⭐️ ⭐️ ⭐️ ⭐️ NFTs Skeptics Guide](https://justincone.com/posts/nft-skeptics-guide/)
-* [⭐️ ⭐️ ⭐️ ⭐️O penSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
-* [⭐️ ⭐️ NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
+* [⭐️ ⭐️ ⭐️ ⭐️ ⭐️ - NFTs Skeptics Guide](https://justincone.com/posts/nft-skeptics-guide/)
+* [⭐️ ⭐️ ⭐️ ⭐️ - OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
+* [⭐️ ⭐️ - NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 
 
