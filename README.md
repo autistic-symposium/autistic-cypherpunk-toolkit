@@ -131,7 +131,7 @@
 ---
 # Matic / Polygon
 
-* A [protocol and a framework](https://polygon.technology/)for building and connecting Ethereum-compatible blockchain networks.
+* A [protocol and a framework](https://polygon.technology/) for building and connecting Ethereum-compatible blockchain networks.
 
 
 ---
@@ -159,12 +159,12 @@
 
 
 * [Check my NFT](https://checkmynft.com/): explains the problem.
-* [Arweave](https://www.arweave.org/).
-* [IPFS to Arweave](https://ipfs2arweave.com/).
-* [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files.
-* [Mintable](https://mintable.app/).
-* [Mintbase](https://mintbase.io/).
-* [Pinata](pinata.cloud).
+* [Arweave](https://www.arweave.org/)
+* [IPFS to Arweave](https://ipfs2arweave.com/)
+* [infiNFT](https://infinft.com/): on-chain metadata and image storage, available for 3D, audio, multiple files
+* [Mintable](https://mintable.app/)
+* [Mintbase](https://mintbase.io/)
+* [Pinata](pinata.cloud)
 
 
 # 💎
@@ -257,26 +257,26 @@
 - [Portion](https://portion.io/): premier online marketplace.
 - [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
 - [beta.cent.co](https://beta.cent.co/~discover/).
-- [Async.art](https://async.art/).
+- [Async.art](https://async.art/)
 - [Token Trove](https://tokentrove.com/)
-- [Cargo](https://cargo.build/).
-- [Blockparty](https://blockparty.co/).
-- [Charged Particles](https://app.charged.fi/go/market).
-- [Don't buy meme](https://dontbuymeme.com/).
+- [Cargo](https://cargo.build/)
+- [Blockparty](https://blockparty.co/)
+- [Charged Particles](https://app.charged.fi/go/market)
+- [Don't buy meme](https://dontbuymeme.com/)
 
 
 ## Games and Gaming Marketplaces
 
-- [Enjix](https://enjinx.io/eth/marketplace).
-- [Neon District](https://neondistrict.io/).
-- [Hedgie](https://www.hedgie.io/).
-- [My Crypto Heros](https://www.mycryptoheroes.net/).
-- [Skyweaver](https://www.skyweaver.net/).
-- [War of Crypta](https://warofcrypta.com/).
-- [Mine or Die](https://warriders.com/).
-- [World of Ether](https://worldofether.com/).
-- [Crypto Weebs](https://www.crypto-weebs.com/).
-- [Axieinfinity](https://axieinfinity.com/).
+- [Enjix](https://enjinx.io/eth/marketplace)
+- [Neon District](https://neondistrict.io/)
+- [Hedgie](https://www.hedgie.io/)
+- [My Crypto Heros](https://www.mycryptoheroes.net/)
+- [Skyweaver](https://www.skyweaver.net/)
+- [War of Crypta](https://warofcrypta.com/)
+- [Mine or Die](https://warriders.com/)
+- [World of Ether](https://worldofether.com/)
+- [Crypto Weebs](https://www.crypto-weebs.com/)
+- [Axieinfinity](https://axieinfinity.com/)
 
 
 
@@ -357,7 +357,7 @@ struct Ask {
 * [NFT20](https://nft20.io/): Decentralized NFT Trading Protocol.
 * [NFY](https://nfy.finance): DeFi protocol.
 * [nftx.org](https://nftx.org/#/): platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable). For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
-* [Tokenize Real Estate](https://blog.realt.co/).
+* [Tokenize Real Estate](https://blog.realt.co/)
 
 
 # 💎
@@ -413,10 +413,10 @@ struct Ask {
 
 
 * [⭐️ ⭐️ ⭐️ ⭐️ ⭐️ - NFTs Skeptics Guide](https://justincone.com/posts/nft-skeptics-guide/)
-* [⭐️ ⭐️ ⭐️ ⭐️ - NFTs players and Landscape](https://coopahtroopa.mirror.xyz/PF42Z9oE_r6yhZN9jZrrseXfHaZALj9JIfMplshlgQ0).
+* [⭐️ ⭐️ ⭐️ ⭐️ - NFTs players and Landscape](https://coopahtroopa.mirror.xyz/PF42Z9oE_r6yhZN9jZrrseXfHaZALj9JIfMplshlgQ0)
 * [⭐️ ⭐️ ⭐️ ⭐️ - OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
 * [⭐️ ⭐️ ⭐️ - A beginner guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
-* [⭐️ ⭐️ ⭐️ - Crypto makes the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo).
+* [⭐️ ⭐️ ⭐️ - Crypto makes the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 * [⭐️ ⭐️ - NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 
 
