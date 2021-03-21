@@ -1,4 +1,4 @@
-# ▲ A curated collection about NFTs ▼ Go from Zero to Hero ▲
+# ▲ A comprehensive curated collection about NFTs ▼ Go from Zero to Hero ▲
 
 <br>
 
@@ -30,11 +30,9 @@
 * Non-fungibility itself allows for new kinds of transactions, where users are not limited to monetary exchanges, but can enjoy the exchange of assets (digital or physical).
 
 
-
-# 💎
-
 <br>
 
+# 💎
 ---
 
 # Blockchains 101
@@ -55,12 +53,9 @@
 * **Proof-Of-Stake (PoS)**: used by Ethereum. Forgers (instead of miners) stake an amount of cryptocurrency, which allows them a chance, based on probability, to be a block validator. The successful forger receives the relevant block transaction fees as a reward. 
 * **Proof-of-Authority (PoA)**: more centralized, it has predetermined block validators. New blocks on a blockchain are only created when the validators are in the majority. Used by a newer blockchain, Elysian.
 
-
-# 💎
-
-
 <br>
 
+# 💎
 ---
 
 # Ethereum
@@ -138,11 +133,11 @@
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
 * [**ERC-998**:](https://eips.ethereum.org/EIPS/eip-998): Composable Non-Fungible Token standard.
 
-# 💎
-
 <br>
 
+# 💎
 ---
+
 # Matic / Polygon
 
 * A [protocol and a framework](https://polygon.technology/) for building and connecting Ethereum-compatible blockchain networks.
@@ -165,11 +160,9 @@
 
 
 
-# 💎
-
-
 <br>
 
+# 💎
 ---
 
 # Permanent storage solutions (Arweave and IPFS)
@@ -184,11 +177,11 @@
 * [Pinata](pinata.cloud)
 
 
-# 💎
 
 <br>
 
------------
+# 💎
+---
 
 # Smart Contracts
 
@@ -238,13 +231,10 @@
 * [Tutorial to deploy, store, and transfer NFT](https://docs.onflow.org/cadence/tutorial/04-non-fungible-tokens/).
 
 
-# 💎
-
-
 <br>
 
-----
-
+# 💎
+---
 
 
 # Artist, creators, and collectors
@@ -351,13 +341,10 @@ struct Ask {
 
 
 
-# 💎
-
-
 <br>
 
-
-------
+# 💎
+---
 
 
 # Socioeconomics of decentralizing the world
@@ -390,13 +377,10 @@ struct Ask {
 * [Tokenize Real Estate](https://blog.realt.co/)
 
 
-# 💎
-
-
 <br>
 
-
------
+# 💎
+---
 
 # Acronyms and concepts
 
@@ -413,14 +397,10 @@ struct Ask {
 * **minting**: creating of NFTs (the process of validating information, creating a new block, and recording that information into the blockchain).
 * **burning**: destruction NFTs.
 
-
-# 💎
-
-
 <br>
 
-
-----
+# 💎
+---
 
 # Hot Wallets to get started
 
@@ -434,14 +414,10 @@ struct Ask {
 * [Trust Wallet](https://trustwallet.com/)
 * [Exodus](https://www.exodus.com/)
 
-# 💎
-
-
 <br>
 
-
-----
-
+# 💎
+---
 
 # Community, Curators, Aggregators
 
@@ -450,13 +426,10 @@ struct Ask {
 * [ETH Global](https://ethglobal.co/)
 
 
-# 💎
-
-
 <br>
 
-
-----
+# 💎
+---
 
 
 # Moar
