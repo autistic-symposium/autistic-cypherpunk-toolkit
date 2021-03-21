@@ -32,7 +32,7 @@
 
 <br>
 
-# 💎
+# 🌮 🪙
 ---
 
 # Blockchains 101
@@ -55,7 +55,7 @@
 
 <br>
 
-# 💎
+# 🥞 🪙
 ---
 
 # Ethereum
@@ -135,7 +135,7 @@
 
 <br>
 
-# 💎
+# 🧆 🪙
 ---
 
 # Matic / Polygon
@@ -162,7 +162,7 @@
 
 <br>
 
-# 💎
+# 🥨 🪙
 ---
 
 # Permanent storage solutions (Arweave and IPFS)
@@ -180,7 +180,7 @@
 
 <br>
 
-# 💎
+# 🥖 🪙
 ---
 
 # Smart Contracts
@@ -233,7 +233,7 @@
 
 <br>
 
-# 💎
+# 🍣 🪙
 ---
 
 
@@ -343,7 +343,7 @@ struct Ask {
 
 <br>
 
-# 💎
+# 🥧 🪙
 ---
 
 
@@ -379,7 +379,7 @@ struct Ask {
 
 <br>
 
-# 💎
+# 🥯 🪙
 ---
 
 # Acronyms and concepts
@@ -399,7 +399,7 @@ struct Ask {
 
 <br>
 
-# 💎
+# 🥘 🪙
 ---
 
 # Hot Wallets to get started
@@ -416,7 +416,7 @@ struct Ask {
 
 <br>
 
-# 💎
+# 🍮 🪙
 ---
 
 # Community, Curators, Aggregators
@@ -428,7 +428,7 @@ struct Ask {
 
 <br>
 
-# 💎
+# 🍇 🪙
 ---
 
 
