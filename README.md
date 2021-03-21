@@ -1,7 +1,6 @@
 
     
-# ▲ A curated collection about NFTs ▼ 
-# (go from Zero to Hero)
+# ▲ A curated collection about NFTs ▼ Go from Zero to Hero ▲
 
 
 
