@@ -1,6 +1,6 @@
 <center>
     
-# ▲ A curated selection on NFTs ▼
+# ▲ A curated collection about NFTs ▼
 ## Go from Zero to Hero [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </center>
