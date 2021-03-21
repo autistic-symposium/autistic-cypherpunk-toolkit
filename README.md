@@ -1,5 +1,3 @@
-
-    
 # ▲ A curated collection about NFTs ▼ Go from Zero to Hero ▲
 
 
