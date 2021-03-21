@@ -1,4 +1,4 @@
-# ▲ NFTs ⇢ From Zero to Hero ▼ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# ▲ A comprehensive selection on everything about NFTs, so you can go from Zero to Hero ▼ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 #### TL;DR NFTs are cryptographic tokens that prove authenticity, ownership, and scarcity of digital assets. It's a new *file format*, for a file you can't copy.
 
