@@ -1,16 +1,20 @@
 # ▲ A curated collection about NFTs ▼ Go from Zero to Hero ▲
 
-
+<br>
 
 #### TL;DR NFTs are cryptographic tokens that prove authenticity, ownership, and scarcity of digital assets. It's a new *file format*, for a file you can't copy.
 
+<br>
+
 *A Non-Fungible Token (NFT) is a cryptographically secured token existing on the blockchain representing ownership of something unique. NFTs can represent tokenized ownership claims to real-world assets like a specific piece of land, or actual ownership of digital assets as in a rare digital trading card. Unlike fungible tokens such as Bitcoin where one BTC can be exchanged for any other BTC, each NFT is completely unique and represents verifiable digital scarcity.*
 
+<br>
 
 ### What is fungibility?
 
 *Fungible goods are equivalent and interchangeable, like Ether, bitcoin, fiat currencies, and voting rights. Non-fungible goods are unique and distinct, like deeds of ownership, or collectibles.*
 
+<br>
 
 ### What is a token?
 
@@ -18,6 +22,7 @@
 
 *A token contract is an Ethereum smart contract. "Sending tokens" means "calling a method on a smart contract that someone wrote and deployed". A token contract is a mapping of addresses to balances, plus some methods to add and subtract from those balances. It is these balances that represent the tokens themselves. Someone "has tokens" when their balance in the token contract is non-zero.*
 
+<br>
 
 ### Why NFTs will power the future of commerce
 
@@ -27,6 +32,8 @@
 
 
 # 💎
+
+<br>
 
 ---
 
@@ -50,6 +57,9 @@
 
 
 # 💎
+
+
+<br>
 
 ---
 
@@ -130,6 +140,8 @@
 
 # 💎
 
+<br>
+
 ---
 # Matic / Polygon
 
@@ -155,6 +167,9 @@
 
 # 💎
 
+
+<br>
+
 ---
 
 # Permanent storage solutions (Arweave and IPFS)
@@ -170,6 +185,9 @@
 
 
 # 💎
+
+<br>
+
 -----------
 
 # Smart Contracts
@@ -221,6 +239,10 @@
 
 
 # 💎
+
+
+<br>
+
 ----
 
 
@@ -330,6 +352,11 @@ struct Ask {
 
 
 # 💎
+
+
+<br>
+
+
 ------
 
 
@@ -364,6 +391,11 @@ struct Ask {
 
 
 # 💎
+
+
+<br>
+
+
 -----
 
 # Acronyms and concepts
@@ -383,6 +415,11 @@ struct Ask {
 
 
 # 💎
+
+
+<br>
+
+
 ----
 
 # Hot Wallets to get started
@@ -398,6 +435,11 @@ struct Ask {
 * [Exodus](https://www.exodus.com/)
 
 # 💎
+
+
+<br>
+
+
 ----
 
 
@@ -409,6 +451,11 @@ struct Ask {
 
 
 # 💎
+
+
+<br>
+
+
 ----
 
 
