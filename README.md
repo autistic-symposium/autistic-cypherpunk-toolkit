@@ -263,6 +263,7 @@
 - [Blockparty](https://blockparty.co/)
 - [Charged Particles](https://app.charged.fi/go/market)
 - [Don't buy meme](https://dontbuymeme.com/)
+- [Ghost Market](https://ghostmarket.io/).
 
 
 ## Games and Gaming Marketplaces
@@ -276,7 +277,7 @@
 - [Mine or Die](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
 - [Crypto Weebs](https://www.crypto-weebs.com/)
-- [Axieinfinity](https://axieinfinity.com/)
+- [Axie infinity](https://axieinfinity.com/)
 
 
 
@@ -319,8 +320,8 @@ struct Ask {
 
 ## Understanding assets
 
-* [NFT Market Overview](https://nonfungible.com/market/history).
-* [Crypto slam](https://www.cryptoslam.io/).
+* [NFT Market Overview](https://nonfungible.com/market/history)
+* [Crypto slam](https://www.cryptoslam.io/)
 * [Etherscan](https://rinkeby.etherscan.io/): search by address, txn hash, block.
 
 
@@ -339,10 +340,10 @@ struct Ask {
 
 ## Opinionated articles 
 
-* [Why people collect art](https://aeon.co/essays/what-drives-art-collectors-to-buy-and-display-their-finds).
-* [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79).
-* [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
-* [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821).
+* [Why people collect art](https://aeon.co/essays/what-drives-art-collectors-to-buy-and-display-their-finds)
+* [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79)
+* [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
+* [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821)
 
 
 
@@ -351,7 +352,7 @@ struct Ask {
 
 *Protocols such as NFTfi and Rocket allow NFTs to be used as collateral for peer-to-peer loans, enabling holders to treat their digital collectibles like any other asset to be monetized.*
 
-* [$WHALE](http://): 
+* [$WHALE](http://):
 * [NFTfi](https://nftfi.com/): marketplace for NFT collateralized loans.
 * [Rocket](https://defirate.com/rocket-nft-loans/). collateralized lending.
 * [NFT20](https://nft20.io/): Decentralized NFT Trading Protocol.
