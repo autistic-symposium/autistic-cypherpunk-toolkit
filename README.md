@@ -58,8 +58,8 @@
 *Ethereum is an open-source, public, blockchain-based distributed ledger featuring smart contract (scripting) functionality. It enables developers to build blockchain applications with business logic that execute in a trustless environment, while leveraging the high availability of the Ethereum network.*
 
 * [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
-* [Ethereum Improvement Proposals](https://eips.ethereum.org/).
-* [Scaffold ETH](https://github.com/austintgriffith/scaffold-eth).
+* [Ethereum Improvement Proposals](https://eips.ethereum.org/)
+* [Scaffold ETH](https://github.com/austintgriffith/scaffold-eth)
 
 
 ### Ether (Ξ)
@@ -141,8 +141,8 @@
 
 
 * [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
-* [Cadence playground](https://play.onflow.org/).
-* [Awesome flow](https://github.com/gianni-dalerta/awesome-flow).
+* [Cadence playground](https://play.onflow.org/)
+* [Awesome flow](https://github.com/gianni-dalerta/awesome-flow)
 
 
 ### Flow standards tokens:
@@ -176,7 +176,7 @@
 ## Solidity (Ethereum)
 
 
-* [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
+* [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
 * The ERC721 metadata JSON schema:
 
 ```
