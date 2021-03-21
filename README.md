@@ -59,6 +59,7 @@
 
 * [What's Ethereum](https://ethereum.org/en/what-is-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/).
+* [Scaffold ETH](https://github.com/austintgriffith/scaffold-eth).
 
 
 ### Ether (Ξ)
@@ -118,13 +119,20 @@
 
 ### Ethereum standards tokens:
 
-* **ERC-721**: non-fungible tokens.
+* [**ERC-721**](https://eips.ethereum.org/EIPS/eip-721): non-fungible tokens.
 * **ERC-20**: fungible tokens.
 * **ERC-1400**: security tokens that be sold as securities.
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
+* [**ERC-998**:](https://eips.ethereum.org/EIPS/eip-998): Composable Non-Fungible Token standard.
 
 # 💎
+
+---
+# Matic / Polygon
+
+* A [protocol and a framework](https://polygon.technology/)for building and connecting Ethereum-compatible blockchain networks.
+
 
 ---
 
@@ -134,6 +142,7 @@
 
 * [Flow](https://www.onflow.org/primer): "smart contracts assembled like lego blocks".
 * [Cadence playground](https://play.onflow.org/).
+* [Awesome flow](https://github.com/gianni-dalerta/awesome-flow).
 
 
 ### Flow standards tokens:
@@ -252,6 +261,7 @@
 - [Token Trove](https://tokentrove.com/)
 - [Cargo](https://cargo.build/).
 - [Blockparty](https://blockparty.co/).
+- [Charged Particles](https://app.charged.fi/go/market).
 
 
 ## Gaming Marketplaces
@@ -312,11 +322,17 @@ struct Ask {
 
 # Socioeconomics of decentralizing the world
 
-## Opinionated articles
+## Communities
+
+* [Peeps democracy](https://medium.com/peeps-democracy)
+
+
+## Opinionated articles 
 
 * [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79).
 * [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
 * [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821).
+
 
 
 
