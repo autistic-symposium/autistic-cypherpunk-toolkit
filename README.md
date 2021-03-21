@@ -262,11 +262,21 @@
 - [Cargo](https://cargo.build/).
 - [Blockparty](https://blockparty.co/).
 - [Charged Particles](https://app.charged.fi/go/market).
+- [Don't buy meme](https://dontbuymeme.com/).
 
 
-## Gaming Marketplaces
+## Games and Gaming Marketplaces
 
 - [Enjix](https://enjinx.io/eth/marketplace).
+- [Neon District](https://neondistrict.io/).
+- [Hedgie](https://www.hedgie.io/).
+- [My Crypto Heros](https://www.mycryptoheroes.net/).
+- [Skyweaver](https://www.skyweaver.net/).
+- [War of Crypta](https://warofcrypta.com/).
+- [Mine or Die](https://warriders.com/).
+- [World of Ether](https://worldofether.com/).
+- [Crypto Weebs](https://www.crypto-weebs.com/).
+- [Axieinfinity](https://axieinfinity.com/).
 
 
 
@@ -329,6 +339,7 @@ struct Ask {
 
 ## Opinionated articles 
 
+* [Why people collect art](https://aeon.co/essays/what-drives-art-collectors-to-buy-and-display-their-finds).
 * [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79).
 * [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
 * [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821).
@@ -343,8 +354,10 @@ struct Ask {
 * [$WHALE](http://): 
 * [NFTfi](https://nftfi.com/): marketplace for NFT collateralized loans.
 * [Rocket](https://defirate.com/rocket-nft-loans/). collateralized lending.
-* [nftx.org](https://nftx.org/#/): platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable).
-    - For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
+* [NFT20](https://nft20.io/): Decentralized NFT Trading Protocol.
+* [NFY](https://nfy.finance): DeFi protocol.
+* [nftx.org](https://nftx.org/#/): platform for making ERC20 tokens that are backed by NFTs (funds, fungible, composable). For example, **CryptoPunks NFT funds**: $PUNK, $PUNK-BASIC, $PUNK-FEMALE, $PUNK-ATTR-4, $PUNK-ATTR-5, $PUNK-ZOMBIE.
+* [Tokenize Real Estate](https://blog.realt.co/).
 
 
 # 💎
