@@ -446,6 +446,8 @@ struct Ask {
 
 # Moar
 
+### General Guides
+
 
 * [⭐️ ⭐️ ⭐️ ⭐️ ⭐️ - NFTs Skeptics Guide](https://justincone.com/posts/nft-skeptics-guide/)
 * [⭐️ ⭐️ ⭐️ ⭐️ - NFTs players and Landscape](https://coopahtroopa.mirror.xyz/PF42Z9oE_r6yhZN9jZrrseXfHaZALj9JIfMplshlgQ0)
@@ -455,4 +457,7 @@ struct Ask {
 * [⭐️ ⭐️ ⭐️ - Crypto makes the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 * [⭐️ ⭐️ - NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 
+### DAOs
+
+* [The DAO of Daos](https://www.notboring.co/p/the-dao-of-daos).
 
