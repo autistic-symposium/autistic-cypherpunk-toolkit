@@ -439,6 +439,7 @@ struct Ask {
 * [⭐️ ⭐️ ⭐️ ⭐️ - NFTs players and Landscape](https://coopahtroopa.mirror.xyz/PF42Z9oE_r6yhZN9jZrrseXfHaZALj9JIfMplshlgQ0)
 * [⭐️ ⭐️ ⭐️ ⭐️ - OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
 * [⭐️ ⭐️ ⭐️ - A beginner guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
+* [⭐️ ⭐️ ⭐️ ⭐️ - Cryptopedia](https://www.gemini.com/cryptopedia)
 * [⭐️ ⭐️ ⭐️ - Crypto makes the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 * [⭐️ ⭐️ - NFT Beginner's Guide](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 
