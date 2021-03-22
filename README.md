@@ -459,5 +459,5 @@ struct Ask {
 
 ### DAOs
 
-* [The DAO of Daos](https://www.notboring.co/p/the-dao-of-daos).
+* [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos).
 
