@@ -370,9 +370,13 @@ struct Ask {
 
 * [Why people collect art](https://aeon.co/essays/what-drives-art-collectors-to-buy-and-display-their-finds)
 * [Some thoughts on token governance and curation](https://medium.com/knownorigin/some-thoughts-on-token-governance-and-curation-a-look-into-a-possible-future-for-knownorigin-41ac900f8a79)
-* [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 * [Can cryptoart really change the world](https://medium.com/knownorigin/can-cryptoart-really-change-the-world-54f26a4f2821)
 
+
+### Decentralization
+
+* [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
+* [Progressive Decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
 
 
 
