@@ -227,6 +227,11 @@
 
 * [CryptoPunksMarket Solidity contract](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol)
 * [CryptoCats contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)
+* [Creating a flexible NFT](https://kauri.io/#collections/Flexible%2C%20Upgradeable%20%26%20Highly%20Available%20NFTs/creating-a-flexible-nft-%28part-1%29/)
+
+
+### Vyper
+
 
 
 ### Repositories & Tools
