@@ -131,6 +131,8 @@
 
 *Increase throughput by splitting up the workload into many blockchains running in parallel (sharding), having them all share a common consensus proof of stake blockchain.*
 
+* [Why Proof of Stake](https://vitalik.ca/general/2020/11/06/pos2020.html)
+
 
 ### Security
 
