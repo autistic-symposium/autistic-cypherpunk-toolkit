@@ -68,6 +68,7 @@
 * **[anonymousplanet](https://anonymousplanet.org/)**
 * **[blockchain dark forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)**
 * **[freehaven.net (on tor)](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
+* **[tails, portable os](https://tails.net/index.en.html)**
 
 <br>
 
@@ -113,6 +114,17 @@
 <br>
 
 ##### anarchy 
+
+<br>
+
+#### tools
+
+<br>
+
+* **[protonmail](https://proton.me/mail)**
+* **[signal](https://signal.org/)**
+* **[keepassxc](https://keepassxc.org/)** (prefered over 1password, dashlane, or others) 
+* **[onionshare](https://onionshare.org/)**
 
 <br>
 
