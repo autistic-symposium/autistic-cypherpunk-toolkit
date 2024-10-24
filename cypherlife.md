@@ -117,7 +117,7 @@
 
 <br>
 
-#### tools
+##### tools
 
 <br>
 
@@ -125,6 +125,14 @@
 * **[signal](https://signal.org/)**
 * **[keepassxc](https://keepassxc.org/)** (prefered over 1password, dashlane, or others) 
 * **[onionshare](https://onionshare.org/)**
+
+<br>
+
+##### charity and donations in crypto
+
+<br>
+
+* **[giveth: crypto donations](https://giveth.io/)**
 
 <br>
 
