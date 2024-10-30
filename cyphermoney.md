@@ -36,6 +36,7 @@
 * **[on the origins of money, by carl menger](https://nakamotoinstitute.org/static/docs/on-the-origins-of-money.pdf)**
 * **[the ethics of money production, by jg hulsmann](https://nakamotoinstitute.org/static/docs/the-ethics-of-money-production.pdf)**
 * **[what has government done to our money, by mn rothbard](https://nakamotoinstitute.org/static/docs/what-has-government-done-to-our-money.pdf)**
+* **[anarchy, state, and utopia, by robert nozick](https://antilogicalism.com/wp-content/uploads/2018/04/anarchy-state-utopia.pdf)**
 
 
  
