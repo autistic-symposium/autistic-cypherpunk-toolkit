@@ -3,7 +3,7 @@
 
 <br>
 
-### canonical readings
+### canonical resources
 
 <br>
 
@@ -29,7 +29,7 @@
  * **[[2014] tribute to hal finney at the nakamoto institute](https://nakamotoinstitute.org/finney/)**
 * **[[2017] money blockchains and social scalability, by n. szabo](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)**
 * **[[2023] exploring the potential for life in the internet and blockchain, by cia officer](https://officercia.mirror.xyz/hsKGwmqe2-B5xR1V-qydYwgLwGLuMliUsudxQ6yXiiE)**
-
+* **[[2024] サトシ's is the best gladiator [video]](https://www.youtube.com/watch?v=5lPH2WbkwyU)**
 
 <br>
 
