@@ -30,8 +30,7 @@
 * **[⚫️ [2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)**
 * **[⚫️ [2024] degen communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)**
 * **[⚫️ [2024] plurality philosophy in an incredibly oversized nutshell](https://vitalik.eth.limo/general/2024/08/21/plurality.html)**
-  
-
+* **[⚫️ [2024] the one mistake to resist post-election: good vs. evil](https://www.youtube.com/watch?v=GlSWFx1F4PM)**
 
 
 
