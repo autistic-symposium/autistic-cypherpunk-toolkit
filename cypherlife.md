@@ -72,6 +72,7 @@
 * **[ethical reflections on political marketing, by cia officer](https://officercia.mirror.xyz/nC51fLlJU23QCgS0g809AKXnX7MqJxq6A9qym8z1vkY)**
 * **[some reflections on the bitcoin block size war, by vub](https://vitalik.eth.limo/general/2024/05/31/blocksize.html)**
 * **[the long and violent war against your soul, by horses](https://www.youtube.com/watch?v=Z7tCN4qOoRs)**
+* **[amir taaki: past, present & future of bitcoin](https://www.youtube.com/watch?v=Ul8p0nf6Hxo)**
 * **[the world hates crypto, by coopahtroopa](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
 * **[the next threat to speech, by e. snowden](https://www.youtube.com/watch?v=XD-XU6Y3TfA)**
 * **[the internet as religion, by d. phelps](https://davidphelps.substack.com/p/the-internet-as-religion)**
