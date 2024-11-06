@@ -2,7 +2,7 @@
 
 <br>
 
-### canonical resources
+### cool resources
 
 <br>
 
@@ -21,13 +21,14 @@
 * **[nomadism-toolkit](https://github.com/autistic-symposium/nomad-toolkit)**
 * **[satoshi vibes](https://www.satoshivibes.com/)**
 * **[freehaven.net](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
+* **[the power of now](https://ia801000.us.archive.org/33/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf)**
 
   
 <br>
 
 ----
 
-### tools
+### cool tools
 
 <br>
 
