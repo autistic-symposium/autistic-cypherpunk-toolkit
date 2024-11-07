@@ -32,14 +32,22 @@
 
 <br>
 
+#### private os
 * **[graphene os](https://grapheneos.org/)**
 * **[tails os](https://tails.net/index.en.html)**
+
+#### wallets
 * **[railway](https://www.railway.xyz/)**
+* **[cake (monero)](https://cakewallet.com/)**
+
+#### communication
 * **[protonmail](https://proton.me/mail)**
-* **[keepassxc](https://keepassxc.org/)**
-* **[onionshare](https://onionshare.org/)**
 * **[gpg/pgp](https://github.com/autistic-symposium/shell-toolkit/tree/master/gpg)**
 * **[signal](https://signal.org/)**
+
+#### apps
+* **[keepassxc](https://keepassxc.org/)**
+* **[onionshare](https://onionshare.org/)**
 * **[frame](https://frame.sh/)**
 * **[rabby](https://rabby.io/)**
 * **[giveth](https://giveth.io/)**
