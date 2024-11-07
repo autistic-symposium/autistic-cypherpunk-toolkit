@@ -34,11 +34,14 @@
 
 #### private os
 * **[graphene os](https://grapheneos.org/)**
+* **[arch linux](https://archlinux.org/)**
 * **[tails os](https://tails.net/index.en.html)**
 
 #### wallets
 * **[railway](https://www.railway.xyz/)**
 * **[cake (monero)](https://cakewallet.com/)**
+* **[rabby (evm)](https://rabby.io/)**
+* **[frame](https://frame.sh/)**
 
 #### communication
 * **[protonmail](https://proton.me/mail)**
@@ -49,9 +52,14 @@
 * **[keepassxc](https://keepassxc.org/)**
 * **[onionshare](https://onionshare.org/)**
 * **[frame](https://frame.sh/)**
-* **[rabby](https://rabby.io/)**
 * **[giveth](https://giveth.io/)**
 * **[ddocs](https://fileverse.io/)**
+* **[hugging face](https://huggingface.co/)**
+* **[ollama](https://ollama.com/)**
+
+#### hardware
+* **[framework](https://frame.work/marketplace)**
+* **[ledger flex](https://shop.ledger.com/pages/ledger-flex)**
 
 <br>
 
