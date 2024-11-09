@@ -87,6 +87,7 @@
 
 <br>
 
+* **[the mysterious history of magic (agrippa's diary), by after skool](https://www.youtube.com/watch?v=q-inyoirs4o)**
 * **[ethical reflections on political marketing, by cia officer](https://officercia.mirror.xyz/nC51fLlJU23QCgS0g809AKXnX7MqJxq6A9qym8z1vkY)**
 * **[some reflections on the bitcoin block size war, by vub](https://vitalik.eth.limo/general/2024/05/31/blocksize.html)**
 * **[the long and violent war against your soul, by horses](https://www.youtube.com/watch?v=Z7tCN4qOoRs)**
