@@ -96,6 +96,7 @@
 * **[the world hates crypto, by coopahtroopa](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
 * **[the next threat to speech, by e. snowden](https://www.youtube.com/watch?v=XD-XU6Y3TfA)**
 * **[the internet as religion, by d. phelps](https://davidphelps.substack.com/p/the-internet-as-religion)**
+* **[the new renaissance, by irevelato](https://www.youtube.com/watch?v=voB_rWvT2aE)**
 * **[the end of my childhood, by vub](https://vitalik.eth.limo/general/2024/01/31/end.html)**
 * **[the anon game, by polynya](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
 * **[finance and wars, by meow](https://meow.bio/finance-wars)**
