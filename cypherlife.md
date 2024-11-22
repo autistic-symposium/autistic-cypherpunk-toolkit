@@ -45,14 +45,18 @@
 * **[rabby (evm)](https://rabby.io/)**
 * **[frame](https://frame.sh/)**
 * **[seed steganography](https://incoherency.co.uk/stegoseed/)**
+* **[airgap it](https://airgap.it/)**
 
 #### communication
 * **[protonmail](https://proton.me/mail)**
 * **[gpg/pgp](https://github.com/autistic-symposium/shell-toolkit/tree/master/gpg)**
 * **[signal](https://signal.org/)**
 
-#### apps
+#### password managers
 * **[keepassxc](https://keepassxc.org/)**
+* **[bitwarden](https://bitwarden.com/)**
+
+#### apps
 * **[onionshare](https://onionshare.org/)**
 * **[frame](https://frame.sh/)**
 * **[giveth](https://giveth.io/)**
