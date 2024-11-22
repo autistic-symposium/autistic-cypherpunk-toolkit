@@ -44,6 +44,7 @@
 * **[cake (monero)](https://cakewallet.com/)**
 * **[rabby (evm)](https://rabby.io/)**
 * **[frame](https://frame.sh/)**
+* **[seed steganography](https://incoherency.co.uk/stegoseed/)**
 
 #### communication
 * **[protonmail](https://proton.me/mail)**
