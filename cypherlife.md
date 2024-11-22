@@ -48,7 +48,7 @@
 * **[airgap it](https://airgap.it/)**
 
 #### communication
-* **[protonmail](https://proton.me/mail)**
+* **[protonmail](https://proton.me/mail)** (read about **[its encryption](https://proton.me/support/proton-mail-encryption-explained)**)
 * **[gpg/pgp](https://github.com/autistic-symposium/shell-toolkit/tree/master/gpg)**
 * **[signal](https://signal.org/)**
 
