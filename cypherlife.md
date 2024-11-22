@@ -45,7 +45,7 @@
 * **[rabby (evm)](https://rabby.io/)**
 * **[frame](https://frame.sh/)**
 * **[seed steganography](https://incoherency.co.uk/stegoseed/)**
-* **[airgap it](https://airgap.it/)**
+* **[airgap it](https://airgap.it/)** (learn more about **[airgapping](https://airgapcomputer.com/)**)
 
 #### communication
 * **[protonmail](https://proton.me/mail)** (read about **[its encryption](https://proton.me/support/proton-mail-encryption-explained)**)
