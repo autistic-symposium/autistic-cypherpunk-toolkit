@@ -36,7 +36,9 @@
 * **[graphene os](https://grapheneos.org/)**
 * **[arch linux](https://archlinux.org/)**
 * **[tails os](https://tails.net/index.en.html)**
-
+* **[whonix os](https://www.whonix.org/)**
+* **[qubes os](https://www.qubes-os.org/)**
+  
 #### wallets
 * **[railway](https://www.railway.xyz/)**
 * **[cake (monero)](https://cakewallet.com/)**
