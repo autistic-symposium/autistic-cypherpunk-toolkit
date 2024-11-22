@@ -7,6 +7,7 @@
 <br>
 
 * **[spreadsheet with in-depth security specs for protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit?gid=0#gid=0)**
+* **[spreadsheet with in-depth security specs for browsers](https://privacytests.org/)**
 * **[cia officer's blockchain research base](https://github.com/OffcierCia/ultimate-defi-research-base?tab=readme-ov-file)**
 * **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
 * **[cia officer's monero resources](https://telegra.ph/CIA-Officer--Monero-05-08)**
