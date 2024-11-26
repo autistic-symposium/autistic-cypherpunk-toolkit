@@ -6,26 +6,30 @@
 
 <br>
 
+
+#### privacy
+* **[privacyguides.org](https://privacyguides.github.io/privacyguides.org/en/basics/why-privacy-matters/)**
 * **[spreadsheet with in-depth security specs for protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit?gid=0#gid=0)**
 * **[spreadsheet with in-depth security specs for browsers](https://privacytests.org/)**
-* **[cia officer's blockchain research base](https://github.com/OffcierCia/ultimate-defi-research-base?tab=readme-ov-file)**
-* **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
-* **[cia officer's monero resources](https://telegra.ph/CIA-Officer--Monero-05-08)**
 * **[web3 privacy now's resources](https://web3privacy.info/)**
 * **[anonymous planet's resources](https://anonymousplanet.org/)**
-* **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
-* **[free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
 * **[awesome self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**
+
+#### cryptocurrencies
+* **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
+* **[cia officer's monero resources](https://telegra.ph/CIA-Officer--Monero-05-08)**
 * **[awesome monero](https://github.com/PrivOci/awesome-monero)**
 * **[pentacle project](https://pentacle.xyz/)**
+* **[satoshi vibes](https://www.satoshivibes.com/)**
+  
+#### hax0r
+* **[free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
+* **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
 * **[electronic magazines](http://www.textfiles.com/magazines/)**
 * **[crypto anarchy wiki](https://cryptoanarchy.wiki/)**
-* **[nomadism-toolkit](https://github.com/autistic-symposium/nomad-toolkit)**
-* **[satoshi vibes](https://www.satoshivibes.com/)**
 * **[freehaven.net](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
 * **[the power of now](https://ia801000.us.archive.org/33/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf)**
 
-  
 <br>
 
 ----
