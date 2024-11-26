@@ -14,6 +14,7 @@
 * **[web3 privacy now's resources](https://web3privacy.info/)**
 * **[anonymous planet's resources](https://anonymousplanet.org/)**
 * **[awesome privacy by lissy93](https://github.com/Lissy93/awesome-privacy)**
+* **[security frameworks by seal](https://frameworks.securityalliance.org/intro/introduction.html)**
 
 #### cryptocurrencies
 * **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
