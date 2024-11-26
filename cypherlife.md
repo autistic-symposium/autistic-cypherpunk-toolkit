@@ -13,7 +13,7 @@
 * **[spreadsheet with in-depth security specs for browsers](https://privacytests.org/)**
 * **[web3 privacy now's resources](https://web3privacy.info/)**
 * **[anonymous planet's resources](https://anonymousplanet.org/)**
-* **[awesome self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**
+* **[awesome privacy by lissy93](https://github.com/Lissy93/awesome-privacy)**
 
 #### cryptocurrencies
 * **[jameson lopp' bitcoin resources](https://www.lopp.net/bitcoin-information.html)**
@@ -28,6 +28,7 @@
 * **[electronic magazines](http://www.textfiles.com/magazines/)**
 * **[crypto anarchy wiki](https://cryptoanarchy.wiki/)**
 * **[freehaven.net](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
+* **[awesome self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**
 * **[the power of now](https://ia801000.us.archive.org/33/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf)**
 
 <br>
