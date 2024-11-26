@@ -31,6 +31,7 @@
 * **[freehaven.net](http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/index.html)**
 * **[awesome self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**
 * **[the power of now](https://ia801000.us.archive.org/33/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf)**
+* **[marcus aurelius' meditations](https://www.gutenberg.org/files/55317/55317-h/55317-h.htm)**
 
 <br>
 
