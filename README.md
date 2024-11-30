@@ -26,6 +26,7 @@
 * **[⚫️ [2008] 𝙱𝙸𝚃𝙲𝙾𝙸𝙽: 𝙰 𝙿𝟸𝙿 𝙴𝙻𝙴𝙲𝚃𝚁𝙾𝙽𝙸𝙲 𝙲𝙰𝚂𝙷 𝚂𝚈𝚂𝚃𝙴𝙼](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)**
 * **[⚫️ [2010] decentralization in brazilian public schools](https://acervodigital.ufpr.br/handle/1884/24232)**
 * **[⚫️ [2013] requiem for a dream](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)**
+* **[⚫️ [2016] the online privacy debate won't end with gawker, by p. thiel](https://www.nytimes.com/2016/08/16/opinion/peter-thiel-the-online-privacy-debate-wont-end-with-gawker.html)**
 * **[⚫️ [2017] the meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**
 * **[⚫️ [2020] credible neutrality as a guiding principle](https://nakamoto.com/credible-neutrality/)**
 * **[⚫️ [2023] make ethereum cypherpunk again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)**
