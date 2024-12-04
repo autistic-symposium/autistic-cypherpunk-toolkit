@@ -74,6 +74,7 @@
 * **[ddocs](https://fileverse.io/)**
 * **[hugging face](https://huggingface.co/)**
 * **[ollama](https://ollama.com/)**
+* **[nym vpn](https://nymvpn.com/en)**
 
 #### hardware
 * **[framework](https://frame.work/marketplace)**
