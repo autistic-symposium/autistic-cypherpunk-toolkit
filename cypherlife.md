@@ -108,6 +108,7 @@
 * **[hugging face](https://huggingface.co/)**
 * **[ollama](https://ollama.com/)**
 * **[nym vpn](https://nymvpn.com/en)**
+* **[radicle](https://radicle.xyz/#get-started)**
 
 #### hardware
 
@@ -149,5 +150,4 @@
 * **[the ghost in the shell, by m. shirow](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga))**
 * **[do androids dream of electric sheep?, by p.k. dick](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)**
 * **[snow crash, by n. stephenson](https://en.wikipedia.org/wiki/Snow_Crash)**
-* **[サトシ's halloween tale, by bitintelligence](https://www.youtube.com/watch?v=3a5UT8PXOkw)**
 * **[your world, simulacra and simulation, by horses](https://www.youtube.com/watch?v=ZOkRF3Xp_4E)**
