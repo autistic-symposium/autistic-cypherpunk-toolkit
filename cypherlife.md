@@ -47,9 +47,11 @@
 * **[cia officer's monero resources](https://telegra.ph/CIA-Officer--Monero-05-08)**
 * **[free programming books](https://github.com/EbookFoundation/free-programming-books/tree/main)**
 * **[awesome blockchain papers](https://github.com/decrypto-org/blockchain-papers)**
+* **[lynn alden's macro stuff](https://www.lynalden.com/)**
 * **[awesome monero](https://github.com/PrivOci/awesome-monero)**
 * **[pentacle project](https://pentacle.xyz/)**
 * **[satoshi vibes](https://www.satoshivibes.com/)**
+
   
 #### hax0r 
 
@@ -108,6 +110,7 @@
 * **[hugging face](https://huggingface.co/)**
 * **[ollama](https://ollama.com/)**
 * **[nym vpn](https://nymvpn.com/en)**
+* **[mullvad vpn](https://mullvad.net)**
 * **[radicle](https://radicle.xyz/#get-started)**
 
 #### hardware
