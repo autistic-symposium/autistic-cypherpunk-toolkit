@@ -6,6 +6,7 @@
 
 <br>
 
+* **[the ethereum cypherpunk manifesto, by pcaversaccio (2024)](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)**
 * **[lunarpunk endgame, by rr. o'leary (2024)](https://www.youtube.com/watch?v=NmrpTB-mfQQ)**
 * **[i read every single 1990s cypherpunk email, by p. adams (2024)](https://www.youtube.com/watch?v=4DtB96PlAtQ)**
 * **[ethical reflections on political marketing, by cia officer (2024)](https://officercia.mirror.xyz/nC51fLlJU23QCgS0g809AKXnX7MqJxq6A9qym8z1vkY)**
