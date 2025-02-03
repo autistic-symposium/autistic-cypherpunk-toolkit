@@ -2,28 +2,33 @@
 
 <br>
 
-### interesting or subversive povs
+### interesting || subversive povs, by interesting || subversive anons
 
 <br>
 
-* **[ethereum acceleration, by g. konstantopoulos et al. (2025)](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
-* **[the ethereum cypherpunk manifesto, by pcaversaccio (2024)](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)**
-* **[lunarpunk endgame, by rr. o'leary (2024)](https://www.youtube.com/watch?v=NmrpTB-mfQQ)**
-* **[i read every single 1990s cypherpunk email, by p. adams (2024)](https://www.youtube.com/watch?v=4DtB96PlAtQ)**
-* **[ethical reflections on political marketing, by cia officer (2024)](https://officercia.mirror.xyz/nC51fLlJU23QCgS0g809AKXnX7MqJxq6A9qym8z1vkY)**
-* **[some reflections on the bitcoin block size war, by vub (2024)](https://vitalik.eth.limo/general/2024/05/31/blocksize.html)**
-* **[the long and violent war against your soul, by horses (2024)](https://www.youtube.com/watch?v=Z7tCN4qOoRs)**
-* **[past, present & future of bitcoin, by a. taaki (2024)](https://www.youtube.com/watch?v=Ul8p0nf6Hxo)**
-* **[the age of aquarius manifest, by irevelato (2024)](https://www.youtube.com/watch?=DleBcSF7nuE)**
-* **[the next threat to speech, by e. snowden (2024)](https://www.youtube.com/watch?v=XD-XU6Y3TfA)**
-* **[the mysterious history of magic, by after skool (2024)](https://www.youtube.com/watch?v=q-inyoirs4o)**
-* **[the new renaissance, by irevelato (2024)](https://www.youtube.com/watch?v=voB_rWvT2aE)**
-* **[starknet $BROTHER manifest (2024)](https://www.supbro.fun/manifesto)**
-* **[saturnus.tv, by bt3gl (2024)](https://saturnus.tv/)**
-* **[finance and wars, by meow (2023)](https://meow.bio/finance-wars)**
-* **[the internet as religion, by d. phelps (2023)](https://davidphelps.substack.com/p/the-internet-as-religion)**
-* **[the world hates crypto, by coopahtroopa (2023)](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
-* **[the anon game, by polynya (2022)](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
+##### 2025 
+* **[ethereum acceleration](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
+* **[network rising: the birth of a new nation](https://github.com/marwan42069/network-rising-story/tree/main)**
+* **[saturnus.tv](https://saturnus.tv/)**
+
+##### 2024
+* **[the ethereum cypherpunk manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)**
+* **[lunarpunk endgame](https://www.youtube.com/watch?v=NmrpTB-mfQQ)**
+* **[i read every single 1990s cypherpunk email](https://www.youtube.com/watch?v=4DtB96PlAtQ)**
+* **[ethical reflections on political marketing](https://officercia.mirror.xyz/nC51fLlJU23QCgS0g809AKXnX7MqJxq6A9qym8z1vkY)**
+* **[some reflections on the bitcoin block size war](https://vitalik.eth.limo/general/2024/05/31/blocksize.html)**
+* **[the long and violent war against your soul](https://www.youtube.com/watch?v=Z7tCN4qOoRs)**
+* **[past, present & future of bitcoin](https://www.youtube.com/watch?v=Ul8p0nf6Hxo)**
+* **[the next threat to speech, by e. snowden](https://www.youtube.com/watch?v=XD-XU6Y3TfA)**
+* **[starknet $BROTHER manifest](https://www.supbro.fun/manifesto)**
+
+##### 2023
+* **[finance and wars](https://meow.bio/finance-wars)**
+* **[the internet as religion](https://davidphelps.substack.com/p/the-internet-as-religion)**
+* **[the world hates crypto](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
+
+##### 2022
+* **[the anon game](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
 
 <br>
 
