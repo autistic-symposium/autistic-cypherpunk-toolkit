@@ -6,6 +6,7 @@
 
 <br>
 
+* **[ethereum acceleration, by g. konstantopoulos et al. (2025)](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
 * **[the ethereum cypherpunk manifesto, by pcaversaccio (2024)](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)**
 * **[lunarpunk endgame, by rr. o'leary (2024)](https://www.youtube.com/watch?v=NmrpTB-mfQQ)**
 * **[i read every single 1990s cypherpunk email, by p. adams (2024)](https://www.youtube.com/watch?v=4DtB96PlAtQ)**
