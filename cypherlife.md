@@ -101,9 +101,11 @@
 
 #### communication
 
+* **[darkfi app ⍺](https://github.com/darkrenaissance/darkfi/releases)**
 * **[protonmail](https://proton.me/mail)** (read about **[its encryption](https://proton.me/support/proton-mail-encryption-explained)**)
 * **[gpg/pgp](https://github.com/autistic-symposium/shell-toolkit/tree/master/gpg)**
 * **[signal](https://signal.org/)**
+
 
 #### password managers
 
