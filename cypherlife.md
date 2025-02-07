@@ -8,6 +8,7 @@
 
 ##### 2025 
 * **[ethereum acceleration](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
+* **[a thousand year milady dynasty](https://www.youtube.com/watch?v=aW7lICIQqOk)**
 * **[network rising: the birth of a new nation](https://github.com/marwan42069/network-rising-story/tree/main)**
 * **[saturnus.tv](https://saturnus.tv/)**
 
@@ -28,7 +29,7 @@
 * **[the world hates crypto](https://coopahtroopa.mirror.xyz/kSuSb_2n3i29H31Jubf5qDL0CZi-T-Sve0e0PPVxQRM)**
 
 ##### 2022
-* **[building helios: fully trustless access to ethereum](https://a16zcrypto.com/posts/article/building-helios-ethereum-light-client/)**
+* **[fully trustless access to ethereum with helios](https://a16zcrypto.com/posts/article/building-helios-ethereum-light-client/)**
 * **[the anon game](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
 
 <br>
