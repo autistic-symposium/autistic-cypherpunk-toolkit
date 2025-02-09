@@ -34,6 +34,9 @@
 
 ##### 2013
 * **[lean in](https://archive.org/details/LeanInSherylSandberg_201804)**
+* **[requiem for a dream](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)**
+* **[a next-generation smart contract and decentralized app platform](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)**
+
 <br>
 
 ---
