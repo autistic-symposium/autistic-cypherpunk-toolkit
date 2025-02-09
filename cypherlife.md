@@ -32,6 +32,8 @@
 * **[fully trustless access to ethereum with helios](https://a16zcrypto.com/posts/article/building-helios-ethereum-light-client/)**
 * **[the anon game](https://polynya.mirror.xyz/oruSLHzzOQOdZwX_DyQcL-fMvX4rSybhc1Z-MdndAW0)**
 
+##### 2013
+* **[lean in](https://archive.org/details/LeanInSherylSandberg_201804)**
 <br>
 
 ---
