@@ -7,6 +7,7 @@
 <br>
 
 ##### 2025 
+* **[why ethereum foundation is an absolutely unprecedented phenomenon in human history and why vub should get the nobel prize in economic science](https://mirror.xyz/lisaakselrod.eth/OyAUSay3byd5ex2FXK1GVL8Vwl6UrGSxvHZcguj97qM)**
 * **[ethereum acceleration](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
 * **[a thousand year milady dynasty](https://www.youtube.com/watch?v=aW7lICIQqOk)**
 * **[network rising: the birth of a new nation](https://github.com/marwan42069/network-rising-story/tree/main)**
