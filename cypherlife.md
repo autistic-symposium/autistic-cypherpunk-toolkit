@@ -7,6 +7,7 @@
 <br>
 
 ##### 2025 
+* **[empowering sexual assault survivors through cryptography](https://www.youtube.com/watch?v=S-ongwT5W78)**
 * **[what the west can learn from the 1979 islamic revolution in iran, part I](https://x.com/ameensol/status/1800591217576570963)**
 * **[why ethereum foundation is an absolutely unprecedented phenomenon in human history and why vub should get the nobel prize in economic science](https://mirror.xyz/lisaakselrod.eth/OyAUSay3byd5ex2FXK1GVL8Vwl6UrGSxvHZcguj97qM)**
 * **[ethereum acceleration](https://www.paradigm.xyz/2025/01/ethereum-acceleration-1)**
