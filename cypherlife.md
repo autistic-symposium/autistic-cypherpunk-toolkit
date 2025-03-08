@@ -50,6 +50,7 @@
 
 #### privacy
 
+* **[web3 privacy academy](https://academy.web3privacy.info/)**
 * **[privacyguides.org](https://privacyguides.github.io/privacyguides.org/en/basics/why-privacy-matters/)**
 * **[spreadsheet with in-depth security specs for protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit?gid=0#gid=0)**
 * **[spreadsheet with in-depth security specs for browsers](https://privacytests.org/)**
